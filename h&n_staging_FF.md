@@ -3,7 +3,6 @@
 ## Table of Contents
 - [FF_Head & Neck Staging.](#ff_head--neck-staging)
 	- [Table of Contents](#table-of-contents)
-	- [- References](#--references)
 	- [**Anatomy, Procedure & Technical**](#anatomy-procedure--technical)
 	- [**Guidelines**](#guidelines)
 	- [**Clinical**](#clinical)

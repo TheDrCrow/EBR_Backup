@@ -8,13 +8,13 @@ Has been a group using RAND system to develop consensus about how to do F/U's:
 However I cannot download the actual paper just the abstract.
 
  And is summarised in this table: [^Giganti2020]
- PRECISE SCORE | Assesment of Likelihood of radiological progression
- |:----|:----|
- 1 | Resolution of previous features suspicious on MRI
- 2 | Reduction in volume and/or conspicuity of features suspicious for prostate cancer
- 3 | Stable MRI appearance: no new focal/diffuse lesions
- 4 | Increase in size and/or conspicuity of features suspicious for prostate cancer
- 5 | Definite radiologic stage progression (ECE, SV involvement, LN involvement, metastasis)
+ | PRECISE SCORE | Assesment of Likelihood of radiological progression                                     |
+ | :------------ | :-------------------------------------------------------------------------------------- |
+ | 1             | Resolution of previous features suspicious on MRI                                       |
+ | 2             | Reduction in volume and/or conspicuity of features suspicious for prostate cancer       |
+ | 3             | Stable MRI appearance: no new focal/diffuse lesions                                     |
+ | 4             | Increase in size and/or conspicuity of features suspicious for prostate cancer          |
+ | 5             | Definite radiologic stage progression (ECE, SV involvement, LN involvement, metastasis) |
 
  There is some reference to rebiopsy all >= 4. 
 

@@ -41,13 +41,13 @@
   - But guideline committe's experience of patients >70 is next to zero. 
   2. Resource costs are non-representative   
    
-   |Procedure|Cost|
-   |:---|---:|
-   |Skel Survey| £108|
-   |WB-MRI| £203|
-   |Spine MR| £199|
-   |WB-CT| £147|
-   |PET-CT| £605|  
+   | Procedure   | Cost |
+   | :---------- | ---: |
+   | Skel Survey | £108 |
+   | WB-MRI      | £203 |
+   | Spine MR    | £199 |
+   | WB-CT       | £147 |
+   | PET-CT      | £605 |
 
   3. The cost-effectiveness analysis does not entirely back up the conclusions as only if QUALY willingness to pay >£20K was WB MRI better than CT. And in the write up they state that the lack of decent economic and head to head diagnostic data makes it difficult to be sure which is better.  But the write up states that MR is the preferred technique = why? 
  
