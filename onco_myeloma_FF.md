@@ -34,8 +34,7 @@
 > Consider whole-body MRI as first-line imaging.  
 > Consider whole-body low-dose CT as first-line imaging if wholebody MRI is unsuitable or the person declines it.  
 
-  1. Markov model assumes S/S of 1 / 0.95 despite the only study in the analysis which has full peformance data (which are the 2 largest) quoting figures of 0.63 / 0.72 for focal disease and 0.61 / 0.62 for diffuse disease.
-  - Why use such ridiculous figures plucked from nowhere. 
+  1. Markov model assumes S/S of 1 / 0.95 despite the only study in the analysis which has full peformance data (which are the 2 largest) quoting figures of 0.63 / 0.72 for focal disease and 0.61 / 0.62 for diffuse disease. Why use such ridiculous figures plucked from nowhere?   
   > *"From the GC’s clinical experience and supported somewhat by low quality evidence MRI was assumed to be the most
   > diagnostically accurate, in terms of both sensitivity and specificity."*  p71 of Full Guidance
   - But guideline committe's experience of patients >70 is next to zero. 
