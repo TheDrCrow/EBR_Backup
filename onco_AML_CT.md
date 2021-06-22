@@ -18,7 +18,18 @@ Will demonstrate other pathologies which can lead to confusion, delay and potent
 
 ### Evidence about role and Efficacy of CT in AML.
 
-Nil that I can find about role of CT
+Nil that I can find about role of CT.
+
+Nil in the BSH about this. Only AML in pregnancy. [^BSH2021]
+
+[^BSH2021]: https://b-s-h.org.uk/guidelines/guidelines/?search=acute+myeloid+leukaemia
+
+NCCN [^NCCN2017] says use it for 
+	- ? Extramedullary disease (rare) = use PET-CT.
+	- Neuro dis & complications = Use MR with Gd or CT for haem.
+
+[^NCCN2017]: https://jnccn.org/view/journals/jnccn/15/7/article-p926.xml
+
 
 Nil that I can find demonstrating CT effective in classifying patients.
 
