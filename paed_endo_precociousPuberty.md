@@ -8,6 +8,7 @@
 - **Boys** >= ??
 
 ## Pathway [^BMJ2021]
+[^BMJ2021]: https://bestpractice.bmj.com/topics/en-gb/1127/investigations
 - **Imaging is LAST STAGE**
 - Divided into 
    1) CENTRAL PP 
@@ -42,5 +43,4 @@ Males: <10% idiopathic. Investigate all.
 
 
 ## Reference: 
-
-[^BMJ2021]: https://bestpractice.bmj.com/topics/en-gb/1127/investigations
+BMJ 2021 [^BMJ2021]: https://bestpractice.bmj.com/topics/en-gb/1127/investigations
