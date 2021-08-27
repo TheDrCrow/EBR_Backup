@@ -6,7 +6,7 @@ More of a personal knowledge archive for snippets of stuff I read, forget and th
 --- 
 
 ### Neurology
-[Guillan-Barre Syndrome](neuro/neuro_GBS.md)
+[Guillan-Barre Syndrome](neuro/neuro_GBS.md)  
 [HI & Anti-Coagulation](neuro/neuro_headinjury&AntiCoag.md)
 
 ### Head & Neck
