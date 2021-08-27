@@ -6,7 +6,8 @@ More of a personal knowledge archive for snippets of stuff I read, forget and th
 --- 
 
 ### Neurology
-[Guillan-Barre Syndrome](https://github.com/TheDrCrow/EBR/blob/44434a8f8ecdc2855a85cd3be8da036d4e897a44/neuro/neuro_GBS.md)
+[Guillan-Barre Syndrome](neuro/neuro_GBS.md)
+[HI & Anti-Coagulation](neuro/neuro_headinjury&AntiCoag.md)
 
 ### Head & Neck
 
