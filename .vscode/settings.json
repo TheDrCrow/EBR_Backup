@@ -1,0 +1,6 @@
+{
+    "vim.easymotion": true,
+    "vim.startInInsertMode": true,
+    "vim.statusBarColors.insert": "#11bb11",
+    
+}

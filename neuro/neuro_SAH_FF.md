@@ -1,4 +1,4 @@
-# FF_Subarachnoid Haemorrhage.
+# Subarachnoid Haemorrhage.
 
 ## Table of Contents
 - [FF_Subarachnoid Haemorrhage.](#ff_subarachnoid-haemorrhage)
