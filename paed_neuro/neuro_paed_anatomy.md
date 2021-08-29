@@ -11,11 +11,11 @@
 
 **Unmyelinated White Matter**  
 - Very high water content (80%) thus, 
-- T1: LOW, T2: HIGH  
+-`T1: LOW, T2: HIGH  
 
 **Myelinated White Matter**
 - = Proteolipid 70% Lipid, 30% Protein thus, 
-- T1: HIGH, T2: LOW.
+- `T1: HIGH, T2: LOW.
 - The water content is still 70% though.  
 
 ***But*** **Transition Phase**
@@ -27,6 +27,7 @@
 
 | | Term | 2 mths | 4 mths | 6 mths | 9 mths | 12mths |
 |:---|:---|:---|:---|:---|:---|:---|
-|Internal Capsule: | | | | | | 
-|Cerebrum| | | | | | |
-|Corpus Callosum | | | | | | 
+| Internal Capsule | | | | | |  |
+| Cerebrum | | | | | | |
+| Corpus Callosum | | | | | | | 
+ 
