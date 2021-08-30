@@ -8,11 +8,10 @@ Points about Looking for Lung Nodules
 	 cancer development. However this is largely a function of what we find on CT
 	 thus an instrumentalist bias.
 3. Multiple guidelines reinforce the sense of mastery and control and thus
-	 exagerate the efficacy of intervention here and this feeds into the popular
+	 exaggerate the efficacy of intervention here and this feeds into the popular
 	 perception of Medical ability and patients' expectation.
 4. But, there were/are no high quality outcome studies on incidental findings
-	 and that even in the screened population and highly controlled studies with highly selected patients
-	 with optimised risk-benefit ratios and the usual trial bias, there is no
+	 and that even in the screened population and highly controlled studies with highly selected patients	with optimised risk-benefit ratios and the usual trial bias, there is no
 	 improvement in mortality, despite some studies getting 20-25% reduction in
 	 lung cancer mortality and lung cancer deaths being very common.
 5. But, there are real costs to this (in)action. There are real psychological

@@ -1,7 +1,7 @@
-# FF_Subarachnoid Haemorrhage.
+# Subarachnoid Haemorrhage.
 
 ## Table of Contents
-- [FF_Subarachnoid Haemorrhage.](#ff_subarachnoid-haemorrhage)
+- [Subarachnoid Haemorrhage.](#ff_subarachnoid-haemorrhage)
   - [Table of Contents](#table-of-contents)
   - [- References](#--references)
   - [**Anatomy, Procedure & Technical**](#anatomy-procedure--technical)
@@ -39,7 +39,8 @@
 2. Some idiopathic - esp in elderly. 
 
 
-Based on 6ys of consecutive SAH codes in South Australia. n=742 but only 41(6%) were convexal. Suggest this is underdiagnosed and is more likely 15%
+Based on 6ys of consecutive SAH codes in South Australia. n=742 but only 41(6%) were convexal.  
+They suggest this is underdiagnosed and is more likely 15%.
 
 Others say AVM, mycotic aneurysms, cortical sinus thrombosis and hypertension are also possible causes.
 

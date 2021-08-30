@@ -40,7 +40,5 @@ Males: <10% idiopathic. Investigate all.
 |                        | Surgery.                          |
 |                        | Radiotherapy.                     | But HIGH dose assocd with delay.            |
 | D) IDIOPATHIC          |                                   |
-
-
 ## Reference: 
 BMJ 2021 [^BMJ2021]: https://bestpractice.bmj.com/topics/en-gb/1127/investigations
