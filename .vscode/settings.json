@@ -1,0 +1,8 @@
+{
+    "vim.easymotion": true,
+    "vim.startInInsertMode": true,
+    "vim.statusBarColors.insert": "#11bb11",
+    "vim.useSystemClipboard": true,
+    "vim.vimrc.enable": true,
+    
+}

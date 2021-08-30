@@ -13,6 +13,7 @@
     - [What does Diffusion Weighted whole body imaging do in Myeloma?](#what-does-diffusion-weighted-whole-body-imaging-do-in-myeloma)
   - [**Differentials**](#differentials)
   - [**Radiological**](#radiological)
+    - [ADC Values [^Messiou2019]](#adc-values-messiou2019)
   - [**How to Report**](#how-to-report)
   - [**Papers**](#papers)
   - [References](#references)
@@ -112,6 +113,12 @@ This would include CT scan as this is cheaper and more likely to be
 ---
 
 ## **Radiological**
+
+### ADC Values [^Messiou2019]
+
+Not yet part of the standard. But,  
+Normal bone marrow usually BELOW 600-700 um2/sec.  
+Viable tumour usually ABOVE 700 um2/sec UPTO 1400.   
 
 ---
 
