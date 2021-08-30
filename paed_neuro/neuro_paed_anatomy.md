@@ -48,15 +48,74 @@ Other Parts
 		-	RECEPTION
 > Connection between Wernicke's & Broca's : Arcuate Fasiculus.
 
+### Parietal Lobe 
+
+Superior Part  
+Inferior Part
+- Angular Gyrus
+- Supramarginal Gyrus  
+
+### Occipital Lobe
+
+Cuneus 
+- Part behind the parieto-occipital fissure and the *Calcarine fissure*.  
+Calcarine Fissure
+- Just off Midline & vaguely Ant-post. 
+- lined with **Primary Visual Cortex**
+
+### Deep Strutures  
+
+Globi Palldi --> Hypothalami -->[Merge midline]-->Infundibular stalk.  
+
+---
+
 ## Midline Structures
 
+**Corpus Callosum**
+Parts: Rostrum, Genu, Body, Isthmus, Splenium. 
+*'Homotopic'* = connects the same part of the cerebral hemispheres together.  
+Contains white matter tracts.
+- 'Forceps Minor' => Genu = Frontal pole connectors. 
+- 'Forceps Major' => Splenium = Occipital pole connectors.  
+
+**Pineal Gland**
+Directly above the Posterior Commisure.  
+
+**Tectal Plate**  
+Most posterior part of midbrain.  
+ -2 Superior colliculi = Vision. 
+ -2 Inferior colliculi = Auditory.
+
+
+---
+
 ## Ventricles & CSF Spaces
+
+*'Cistern'*: Occurs when pia mater and arachnoid are not closely aligned.  
+- Perimesencephalic Cisterns : around midbrain.
+	- Crural Cisterns : anterolateral. 
+	- Ambient Cisterns : lateral. 
+	- Quadrigeminal: posterior.
+- Prepontine Cistern.
+- Cerebellopontine Angle Cistern.
+- Lateral Medullary Cisterns. ( Lateral to medulla ) 
+- Cisterna Magna ( below cerebellar vermis ) 
 
 ---
 ## Myelination [^Choudri2017]
 
 [^Choudri2017]:Choudri, Asim. Pediatric Neuroradiology: Clinical Practice
 	Essentials. Thieme 2017.
+
+**White Matter Bundles**
+- *Commisural*: Joins to opposite hemisphere.
+- *Association*: Joins within the same hemisphere.
+- *Projection*: Extend to deep grey, brainstem, cerebellum.  
+
+Is divided into:
+1. Juxacortical.
+2. Deep White Matter 
+	- Periventricular is a subset.
 
 **Unmyelinated White Matter**  
 - Very high water content (80%) thus, 
@@ -78,9 +137,8 @@ Other Parts
 |:---|:---|:---|:---|:---|:---|:---|:---
 | **Internal Capsule** | Spot in post PLIC | Most PLIC | PLIC +/- Angle | Into ALIC | Whole IC |  |
 | **Corpus Callosum** | | | Isthmus & Body | Splenium | +/- Genu | Whole Genu | 
-| **Cerebrum** | | +/- Optic Radiation | | Most occipital. Some Frontal | J/C in Occiput | J/C in Frontal | T2 high in J/C Frontal.  
+| **Cerebral Hemispheres** | | +/- Optic Radiation | | Most occipital. Some Frontal | J/C in Occiput | J/C in Frontal | T2 high in J/C Frontal.  
 
 > J/C = Juxtacortical. 
 > Myelination correlates with development of function. 
 > Juxtacortical WM in the frontal lobe is still maturing up to 2yrs on T2 and microstructurally to adolescence.
- 
