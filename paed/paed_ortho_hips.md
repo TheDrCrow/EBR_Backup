@@ -9,7 +9,7 @@
     - [NIPE 2020. [^HMG2020]](#nipe-2020-hmg2020)
   - [**Clinical**](#clinical)
   - [**Differentials**](#differentials)
-  - [**Radiological**](#radiological)
+  - [**Radiological**  [^2]](#radiological--2)
   - [**How to Report**](#how-to-report)
   - [**Papers**](#papers)
   - [References](#references)
@@ -39,14 +39,30 @@ Born <34 weeks: At 38 to 40 weeks gestationally corrected age.
 
 ## **Clinical**
 
-
 ---
 
 ## **Differentials**
 
 ---
 
-## **Radiological**
+## **Radiological**  [^2]
+
+'Subluxed' = <50% bony coverage at rest.
+'Capsular Laxity' = >50% bony coverage at rest but <50% on stress.
+
+Graf Type | Alpha | Beta | Notes | 
+:--- | :---: | :---: | :---|
+1a | >60 | <55 | Mature hip, angular bony promontory | 
+1b | >60 | <55 | Mature hip, rounded bony promontory | 
+| | | | | 
+2a | 50-60 | 55-77 | Physiologic Immaturity <3m | 
+2b | 50-60 | 55-77 | Immaturity >3m | 
+2c | 43-49 | 55-77 | Critical Hip, Subluxation | 
+| | | | | 
+3 | <43 |  | Dislocated hip |
+4 | <43 |  | Dislocated hip, Inverted labrum | 
+
+[^2]:StatDx https://my.statdx.com/document/developmental-hip-dysplasia/a4836bb1-d249-4c9e-bf22-0439316823d8?searchTerm=ddh&searchType=documents&category=All
 
 ---
 
