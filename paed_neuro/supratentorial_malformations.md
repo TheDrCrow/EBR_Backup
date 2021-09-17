@@ -1,5 +1,22 @@
 # Supratentorial Malformations
 
+- [Supratentorial Malformations](#supratentorial-malformations)
+  - [Abnormalities of Neuronal / Grey Matter development.](#abnormalities-of-neuronal--grey-matter-development)
+    - [Abnormalities of Neuronal Proliferation.](#abnormalities-of-neuronal-proliferation)
+      - [1) Hemimegalencephaly](#1-hemimegalencephaly)
+      - [2) Focal Cortical Dysplasia (FCD)](#2-focal-cortical-dysplasia-fcd)
+    - [Abnormalities of Neuronal Migration.](#abnormalities-of-neuronal-migration)
+      - [1) Heterotopia](#1-heterotopia)
+    - [Abnormalities of Neuronal Organization.](#abnormalities-of-neuronal-organization)
+  - [Disorders Corpus Callosal Formation](#disorders-corpus-callosal-formation)
+    - [Agenesis of Corpus Callosum](#agenesis-of-corpus-callosum)
+    - [Dysgenesis of Corpus Callosum](#dysgenesis-of-corpus-callosum)
+  - [Holoprosencephaly Spectrum](#holoprosencephaly-spectrum)
+    - [Syntelencephaly](#syntelencephaly)
+    - [Septo-Optic Dysplasia](#septo-optic-dysplasia)
+  - [Lissencephaly / Pachygyria / Agyria Spectrum [^Donato2018]](#lissencephaly--pachygyria--agyria-spectrum-donato2018)
+
+
 ## Abnormalities of Neuronal / Grey Matter development. 
 
 Mature cerebral cortex has 6 layers. 
@@ -150,7 +167,7 @@ NB: Diff = Premature!!
 Now viewed as Lissencephaly Spectrum subsuming pachygyria and agyria. And with
 Subcortical band heterotopia at the other end.
 
-See [^Donato2019] for upto date classification system and correlation with clinical
+See [^Donato2018] for upto date classification system and correlation with clinical
 features = at end of the pdf. 
 
 ***Lissencephaly*** Smooth 4 layered cortex. 

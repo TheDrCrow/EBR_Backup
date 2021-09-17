@@ -4,6 +4,7 @@
 - [FF_Knee.](#ff_knee)
 	- [Table of Contents](#table-of-contents)
 	- [**Anatomy, Procedure & Technical**](#anatomy-procedure--technical)
+		- [Meniscus  [^Hegazi2020]](#meniscus--hegazi2020)
 	- [**Guidelines**](#guidelines)
 	- [**Clinical**](#clinical)
 		- [Tibial Plateau Fractures.](#tibial-plateau-fractures)
@@ -12,6 +13,8 @@
 		- [Distal Femoral Fractures.](#distal-femoral-fractures)
 	- [**Differentials**](#differentials)
 	- [**Radiological**](#radiological)
+		- [Meniscus](#meniscus)
+			- [Tears](#tears)
 	- [**How to Report**](#how-to-report)
 	- [**Papers**](#papers)
 	- [References](#references)
@@ -19,10 +22,9 @@
 
 ## **Anatomy, Procedure & Technical**
 
-### Meniscus  
-[^Hegazi2020]
+### Meniscus  [^Hegazi2020]
 
-[^Hegazi2020]: Musculoskeletal MRI: A Case-Based Approach to Interpretation &
+[^Hegazi2020]:Musculoskeletal MRI: A Case-Based Approach to Interpretation &
 	Reporting. Hegazi TM & Wu JS. Springer Nature 2020.
 	https://doi.org/10.1007/978-3-030-26777-3 
 
