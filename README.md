@@ -49,10 +49,6 @@ More of a personal knowledge archive for snippets of stuff I read, forget and th
 
 ### Paediatric Neuroradiology  
 [Neuroanatomy](paed_neuro/neuro_paed_anatomy.md)  
-[Malformations](paed_neuro/neuro_paed_malformations.md)  
-
-### General 
-[Nightsweats](general/general_nightsweats.md)  
-[Confusion Investigation](general/general_confusion_ix.md)  
-
-### Technical
+[Malformations](paed_neuro/neuro_paed_malformations.md) 
+[Supratentorial Malformations](paed_neuro/supratentorial_malformations.md) 
+[Brain Tumours](paed_neuro\neuro_paed_brain_tumours.md)
