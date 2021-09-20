@@ -51,4 +51,4 @@ More of a personal knowledge archive for snippets of stuff I read, forget and th
 [Neuroanatomy](paed_neuro/neuro_paed_anatomy.md)  
 [Malformations](paed_neuro/neuro_paed_malformations.md) 
 [Supratentorial Malformations](paed_neuro/supratentorial_malformations.md) 
-[Brain Tumours](paed_neuro\neuro_paed_brain_tumours.md)
+[Brain Tumours](paed_neuro/neuro_paed_brain_tumours.md)
