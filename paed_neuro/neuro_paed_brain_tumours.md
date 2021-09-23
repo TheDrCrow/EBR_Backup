@@ -30,7 +30,7 @@ Contentious and is based entirely on the histo with no input from Radiology.
 [^Zamora_2017]:Zamora C et al, Supratentorial Tumors in Pediatric Patients. In Neuroimag Clin N Am 27 (2017) 39–67 http://dx.doi.org/10.1016/j.nic.2016.08.003 Papers+
 [^Mankad_2021]:Mankad K, WHO 2021 CNS tumours. (Lecture) SPIN 2021
 [^Louis_2021]:Louis DN et al, The 2021 WHO Classification of Tumours of the CNS: A Summary. Neuro-Oncology 23(8), 1231–1251, 2021. doi:10.1093/neuonc/noab106 Hughes&Parry
-[^Choudri_2017]: Choudri A, Pediatic Neuroradiology: Clinical Practice Essentials. Thieme. 2017.
+[^Choudri_2017]:Choudri A, Pediatic Neuroradiology: Clinical Practice Essentials. Thieme. 2017.
 [^Ramaswamy_2022]:Ramaswarmy V et al, Primary Nervous System Tumours in Infants and Children. in Bradley & Daroff's Neurology in Clinical Practice, Elsevier 2022
 
 ## Overview 

@@ -1,0 +1,18 @@
+
+{
+ // FOR Writing markdown documents 
+
+ "Footnote/Reference": {
+    "prefix": "fn",
+    "body": "[^${1}_${2}]:${1} $3, ${4:Title}, ${5:Ref}, ${6:doi}. ${7|H&P+,Papers+,Zotero+,NotSaved.|}", 
+    "description": "Add a Reference as a footnote." 
+},
+
+"Link_a_Reference": {
+    "prefix": "fn1",
+    "body": "[^${1:Author_Year}]", 
+    "description": "Add a superscript reference"
+
+},
+
+}
