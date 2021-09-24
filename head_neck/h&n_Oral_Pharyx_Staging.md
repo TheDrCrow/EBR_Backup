@@ -153,7 +153,7 @@ For Surgical Planning then in **Oral Tongue** need to state:
 	5. Midline Raphe: Min distance to / Involved. 
 	6. Tongue Base / Larynx involvement. 
 
-### Nodes from Oral Cavity. 
+### Nodes from Oral Cavity Tumours.
 
 **Level I and II**  
 Often bilateral esp if midline.
@@ -198,6 +198,48 @@ T4b | Tumour invases:<br>- Lateral pterygoid muscle<br>- Pterygoid plates<br>- L
 
 >For p16/HPV SCC then T4a and T4b are combined as T4a.
 
+#### Spread Patterns aka Local Invasion. 
+
+NB: Submucosal spread is common and difficult to clinically assess. 
+
+| Tumour subsite | Direction | Into | Notes
+|:---|:---|:---|:---|
+| **Tongue Base** | Deep | Extrinsic Tongue Muscles (T4a)<br>--Genioglossus<br>--Hyoglossus | Esp these 2 muscles. |
+| | Posterior | Tonsil via *glossotonsillar sulcus* |  | 
+| | Anterolateral | Floor of Mouth *then into*<br>Mandible(T4a) | | 
+| **Vallecula** | Superficial | Epiglottis (Mucosa=T3) *but can go deep to*<br>Laryngeal Surface of Epiglottis(T4a) *or*<br>Pre-epiglottic space (T4a) | Initial spread to epiglottis is easily seen clinically but the later deep invasion is only seen on imaging. | 
+| **Tonsillar Base** | Local | Tongue Base<br>Soft Palate<br>Retromolar Trigone<br>Posterior oropharyngeal wall. | Arise mostly on *Anterior Pillar*.<br>Can grow big and just be local. 
+| | Extrapharyngeal<br>*Laterally* | Constrictor muscle<br>Medial Pterygoid (T4b) *lateral to*<br>Parapharyngeal Space *then to*<br>Carotid Artery/Space (T4b).| 
+| | Superior | 1. *mucosally* Nasopharynx (+/-T4b)<br> 2. *deep in parapharyngeal fat to*<br>Skull Base(T4b) | Uncommon. |
+| **Soft Palate** |  | Tonsil<br>Hard Palate(T4a) | Often cross midline. | 
+| | Superiorly | 1. *mucosally* Nasopharynx(+/-T4b)<br> 2. *deep along veli palatini to* Skull Base(T4b) | Uncommon | 
+| **Posterior Oropharyngeal Wall** | Submucosal | Oropharynx<br>Hypopharynx | | 
+| | Deep | Parapharyngeal Fat<br>Prevertebral Muscles | Parapharyngeal invasion is common.<br>Prevertebral Muscle invasion is uncommon but poor. | 
+
+>Tumours at junction of soft and hard palate may extend into perineurally within the Palatine glands
+
+NB: Prevertebral invasion is difficult with high NPV but low PPV thus
+	- Intact fat plane pre the muscles = NO invasion. 
+	- Loss of fat plane OR abnormal signal/thickening/enhancement = UNSURE. May
+			need surgical assessment to see if it is resectable.  
+
+### Nodes from OP tumours.  
+
+**Level II**
+Look for RP esp from Tonsil & Palatal. 
+Bilateral common in midline.
+
+### Treatment  
+
+Early = Surgery or RT. 
+Advanced = ( RT or ChemoRT ) +/- Surgery.  
+
+RT generally better than Surgery for function preservation ( speech, swallowing,
+airway ) but long-term effects are real. 
+
+But minimally invasive techniques are beginning to show similar Outcomes to RT
+for **TORS** (Transoral Robotic Surgery) and **TLM** (Transoral Laser Microsurgery)
+For **HPV-associated Tumours** then trials of modified therapies are ongoing.  
 
 
 ---
