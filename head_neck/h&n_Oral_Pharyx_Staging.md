@@ -34,7 +34,7 @@
 	- [**Hypopharynx (HP)**](#hypopharynx-hp)
 		- [T - Staging](#t---staging)
 		- [Treatment](#treatment-3)
-	- [**Radiological**](#radiological)
+	- [**Second Primary**](#second-primary)
 	- [**How to Report**](#how-to-report)
 	- [**Papers**](#papers)
 	- [References](#references)
@@ -47,21 +47,45 @@
 
 Follow TNM and[^King_2021] use for basis of template for structured reporting.   
 
+
+
 ---
 
 ## Tumour 
 
 THINK **2cm** and **4cm** as cut off in MAX dimension. 
 
-Always measure Depth of Invastion (DOI). Measured from presumed basal membrane inwards ie Deep. Not very accurate but correlates with the risk of Nodal disease.  
+Always measure Depth of Invastion (DOI) for OC. Measured from presumed basal membrane inwards ie Deep. Not very accurate but correlates with the risk of Nodal disease.   
+
+Invasion into BONE: Same signal on all sequences as tumour. Cortical invasion = loss of low signal on T1 and T2. +/- CT for bony plates. 
+
+Use >270 degrees of contact as measure of invasion. 
 
 --- 
 
 ## Nodes
+THINK **3cm** and **6cm** as cut offs in MAX dimension for STAGING.  
+>6cm is usually a conglomeration of nodes. 
 
-THINK **3cm** and **6cm** as cut offs in MAX dimension.  
-*Use 10mm etc in maximum shortest axial dimension as cut off for involvement*.   
+*Use 10mm etc in maximum shortest axial dimension as cut off for INVOLVEMENT*.  
 
+**INVOLVEMENT** 
+Use: 
+	1) SIZE - in shortest AXIAL slice dimension. 
+      	1) Retropharyngeal Nodes = 5mm
+      	2) Jugulodigastric = 11mm 
+      	3) Other = 10 mm. 
+      	4) Also 3 or more borderline = >8mm. 
+	2) SHAPE - Round .
+	3) NECROSIS 
+	4) LOSS of HILUM.
+	5) VASCULARITY PATTERN. 
+	6) FUNCTION = PET / DWI 
+	7) Also do FNAC. 
+
+Techniques are all complimentary and using >1 always improves S/S.
+
+Assess likelihood by looking at the usual spread of nodes. 
 #### N Staging *(all except NP and p16 OP)*
 
 Nodal Stage | Number + Site | Size (Max Dim) |
@@ -84,7 +108,14 @@ No technique is anything better than good, therefore combining nearly always imp
 
 ---
 
-## Mets
+## Mets  
+
+M0 or M1 only. 
+
+<5% have detectable distant disease at presentation. ( thus no need PET ? no need PET-CT).  
+Lung > Bone > Liver (odd on its own).
+
+Brain is rare at presentation. 
 
 ---
 
@@ -435,7 +466,13 @@ If not then RT or ChemoRT.
 
 ---
 
-## **Radiological**
+## **Second Primary**
+
+**Synchronous**  in <6mths. = 1 to 6%   
+Most likely in HP or Laryngeal.   
+
+Site of Second primary include Lung and Oesophagus as well as the head and neck. 
+
 
 ---
 
