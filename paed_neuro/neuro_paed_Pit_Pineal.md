@@ -48,10 +48,10 @@ Imaging [^Tamrazi_2017]
 
 | Name | Demographics | Pathology | Radiology | Notes 
 |:---|:---|:---|:---|:---|
-| Germ Cell Tumour | Most common 50%. M>>>F Teen. | Malignant primordial tissues . Germinomas 50% of all.  20% outside Pineal. Teratomas 2nd: Fat/Ca etc| Appear:Hetero. T1:Iso/Low. T2:mild Low->High. ADC:Low. Gd:Avid,hetero. Ca2:Central | Dx:Serum & CSF aFP, bHCG, plALP Rx: Chemo & RT. 5yOS >90%.| 
-| Pineoblastoma | 10% of Pineal masses. M=F | WHO Grade 4. Embryonal. Infiltrative | T1:Hetero. T2:Hetero. ADC:Low. Gd:0->Moderate. Ca2:Peripheral (qv GCT) | 5yOS<50% [Trilateral Retinoblastoma = Bilateral retinoblastoma + pineoblastoma.| 
+| Germ Cell Tumour | Most common 50%. M>>>F Teen. | Malignant primordial tissues . Germinomas 50% of all.  20% outside Pineal. Teratomas 2nd: Fat/Ca etc| Appear:Hetero. T1:Iso/Low. T2:mild Low->High. ADC:Low. 
 | Pineocytoma | All ages. Peak =20-50yo | WHO Grade 1. Histo same as normal tissue. | Well-defined, High T2 lesions. Gd:Var but not ADC low. But can be mixed cyst-solid and haem. | 
-| Astrocytoma |  | Often arise from thalami, CC, III etc. | T1:Low. T2:High. ADC:Var, low in HG parts. Gd:0/+. | Tectal glioma etc.   | 
+Gd:Avid,hetero. Ca2:Central | Dx:Serum & CSF aFP, bHCG, plALP Rx: Chemo & RT. 5yOS >90%.| 
+| Pineoblastoma | 10% of Pineal masses. M=F | WHO Grade 4. Embryonal. Infiltrative | T1:Hetero. T2:Hetero. ADC:Low. Gd:0->Moderate. Ca2:Peripheral (qv GCT) | 5yOS<50% [Trilateral Retinoblastoma = Bilateral retinoblastoma + pineoblastoma.| | Astrocytoma |  | Often arise from thalami, CC, III etc. | T1:Low. T2:High. ADC:Var, low in HG parts. Gd:0/+. | Tectal glioma etc.   | 
 
 
 
