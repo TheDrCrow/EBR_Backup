@@ -7,6 +7,7 @@
   - [**Anatomy, Procedure & Technical**](#anatomy-procedure--technical)
   - [**Guidelines**](#guidelines)
     - [NIPE 2020. [^HMG2020]](#nipe-2020-hmg2020)
+      - [__Indications__](#indications)
   - [**Clinical**](#clinical)
   - [**Differentials**](#differentials)
   - [**Radiological**  [^2]](#radiological--2)
@@ -34,6 +35,16 @@ Born <34 weeks: At 38 to 40 weeks gestationally corrected age.
 **Clinical Features**
 
 "Please note that observation of skin creases for symmetry is no longer part of the NIPE screen." 
+
+#### __Indications__
+
+**First-degree family history of hip problems in early life** - this includes baby's parents or siblings who have had a hip problem that started as a baby or young child **that needed treatment with a splint, harness or operation**.  
+
+**Breech presentation at or after 36 completed weeks of pregnancy** , irrespective of presentation at birth or mode of delivery – this includes babies who have had a successful external cephalic version (ECV)
+
+**Breech presentation at the time of birth** between 28 weeks gestation and term
+
+**All babies from a multiple pregnancy where any of the NIPE hip risk factors** listed above are present should have a hip ultrasound. This is because if one of the babies meets the criteria of breech presentation described above during pregnancy, it may be difficult to accurately identify which baby was affected.
 
 ---
 
