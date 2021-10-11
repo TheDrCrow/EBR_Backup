@@ -70,25 +70,25 @@ THINK **3cm** and **6cm** as cut offs in MAX dimension for STAGING.
 *Use 10mm etc in maximum shortest axial dimension as cut off for INVOLVEMENT*.  
 
 **INVOLVEMENT** 
-Use: 
-	1) SIZE - in shortest AXIAL slice dimension. 
-      	1) Retropharyngeal Nodes = 5mm
-      	2) Jugulodigastric = 11mm 
-      	3) Other = 10 mm. 
-      	4) Also 3 or more borderline = >8mm. 
-	2) SHAPE - Round .
-	3) NECROSIS 
-	4) LOSS of HILUM.
-	5) VASCULARITY PATTERN. 
-	6) FUNCTION = PET / DWI 
-	7) Also do FNAC. 
+Use:   
+	1) SIZE - in shortest AXIAL slice dimension.   
+		1) Retropharyngeal Nodes = 5mm  
+    2) Jugulodigastric = 11mm   
+    3) Other = 10 mm.   
+    4) Also 3 or more borderline = >8mm.  
+	2) SHAPE - Round .   
+	3) NECROSIS   
+	4) LOSS of HILUM.  
+	5) VASCULARITY PATTERN.    
+	6) FUNCTION = PET / DWI   
+	7) Also do FNAC.   
 
 Techniques are all complimentary and using >1 always improves S/S.
 
 Assess likelihood by looking at the usual spread of nodes. 
 #### N Staging *(all except NP and p16 OP)*
 
-Nodal Stage | Number + Site | Size (Max Dim) |
+|Nodal Stage | Number + Site | Size (Max Dim) |
 |:---|:---|:---|
 | N1 | Single. Ipsilateral. | =< 3cm. No ENE | 
 | N2a | Single. Ipsilateral | >3 to 6cm. No ENE | 
@@ -466,6 +466,31 @@ If not then RT or ChemoRT.
 
 ---
 
+## Treatment of Metastatic NODES. 
+
+Based on combination of RT, Surg & Chemo (Adj & Neoadj) . 
+Often depends on the 1ry.
+
+### Surgery 
+
+= 'Neck Dissection' = Aim to remove involved OR at-risk nodal groups.  
+
+#### For Clinical NODE POSITIVE without adverse features. 
+
+1) *Radical Neck Dissection* = en-bloc removal of unilateral. 
+	- Levels I - V nodes. 
+	- SCM Muscles
+	- IJV
+	- SMG
+	- Spinal Acc N.
+2) *Modified Neck Dissection* = more common.
+	- Levels I - V nodes.  
+But leave behind leave behind one or more of the above structures. 
+
+#### For NO Clinical / Rad features of positive but HIGH - RISK of occult (>20%)
+
+---
+
 ## **Second Primary**
 
 **Synchronous**  in <6mths. = 1 to 6%   
@@ -476,7 +501,28 @@ Site of Second primary include Lung and Oesophagus as well as the head and neck.
 
 ---
 
-## **How to Report** 
+## Post-Treatment Imaging.
+
+### Radiotherapy
+
+#### Early 
+- Mucositis.
+	- Diffuse mucosal thickening. 
+	- ^^ T2. 
+	- +/++ Gd. 
+- Thickening of skin / platysma
+- Reticulation of fat. 
+- Salivary gland changes.   
+
+#### Late 
+- Atrophy
+	- Salivary glands, nodes, lymphoid tissue. 
+	- Muscles *inc Platysma, Pterygoids, Constrictors*
+- Thickening of skin ( + signal change )
+- Scar
+	- vv T2. 
+	- -/+ Gd. 
+> The changes stabilise by 18 months apart from scarring which can go on for years. 
 
 ---
 
