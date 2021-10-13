@@ -10,8 +10,13 @@
 		- [Scrotal Swelling / Hydrocele / Hernia. [^Uroweb2021]](#scrotal-swelling--hydrocele--hernia-uroweb2021)
 			- [Diagnosis.](#diagnosis)
 			- [Treatment.](#treatment)
-		- [Antenatal Hydronephrosis.](#antenatal-hydronephrosis)
+		- [Antenatal Hydronephrosis. [^UTD2014]](#antenatal-hydronephrosis-utd2014)
+			- [Postnatal.](#postnatal)
+				- [Management.](#management)
+
+
 --- 
+
 ### UTI 
 
 --- 
@@ -67,6 +72,33 @@ Later onset hydroceles, suggesting secondary, then leave for 6 to 9 months as 75
 
 --- 
 
-### Antenatal Hydronephrosis.
+### Antenatal Hydronephrosis. [^UTD2014]
 
-[^Uroweb2021]: https://uroweb.org/guideline/paediatric-urology/#3
+Based on consensus from ACR, AIUM, ASPN, SFU, SPU, SRU and others. 
+
+Defined both 'A' = antenatal findings and management *and*
+'P' = postnatal findings and management. 
+
+#### Postnatal. 
+- For >48hrs post delivery.  
+
+| Risk Level | APRPD | Calyceal Dilatation | Parenchyma | Ureters | Bladder | 
+|:---|:---|:---|:---|:---|:---|
+| LOW = 'UTD P1' | **10- <15mm** | **Central only**. | Normal Thickness & Appearance. | Normal | Normal | 
+| INTERMEDIATE = 'UTD P2' | **>=15mm** | Central &/or **Peripheral** | Normal Thickness or Appearance | **Abnormal** | Normal | 
+| HIGH = 'UTD P3' | >=15mm | Central &/or Peripheral | **Abnormal Thickness or Appearance**. | Abnormal | **Abnormal** | 
+
+
+##### Management. 
+
+Level | Follow Up US | MCUG | Abx | MAG3 / Functional Scan |
+|:---|:---|:---|:---|:---|
+| UTD P1 | 1 to 6 months. | *Discretion of clinician* | *Discretion of clinician* | Not recommended. |
+UTD P2 | 1 to 3 months | *Discretion of clinician*  | *Discretion of clinician*| *Discretion of clinician* | 
+UTD P3 | 1 month | Recommended | Recommended | *Discretion of clinician* | 
+
+---
+
+
+[^Uroweb2021]: https://uroweb.org/guideline/paediatric-urology/
+[^UTD2014]:Nguyen HT et al, Multidisciplinary consensus on the classification of prenatal and postnatal urinary tract dilation (UTD classification system). J Ped Uro 10 (2014), 982-999. In papers. 
