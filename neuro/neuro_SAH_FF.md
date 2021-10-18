@@ -15,15 +15,7 @@
   - [References](#references)
 ---
 
-## **Anatomy, Procedure & Technical**
-
----
-
 ## **Guidelines**
-
----
-
-## **Clinical**
 
 ---
 
@@ -43,19 +35,6 @@ Based on 6ys of consecutive SAH codes in South Australia. n=742 but only 41(6%) 
 They suggest this is underdiagnosed and is more likely 15%.
 
 Others say AVM, mycotic aneurysms, cortical sinus thrombosis and hypertension are also possible causes.
-
-
----
-
-## **Radiological**
-
----
-
-## **Papers** 
-
----
-
-## **How to Report** 
 
 ---
 
