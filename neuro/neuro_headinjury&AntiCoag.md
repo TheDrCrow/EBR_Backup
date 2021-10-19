@@ -14,7 +14,7 @@ Multicenter, prospective observational study in NY and LA.
 For significant intracranial injury vs no agents. RR:
  - ASA alone: 1.3 (0.9 - 1.8)
  - Clop alone: 0.8 (0.2 - 2.3)
- - Warfr alone: 1.9 (1.3 - 2.8)
+ - Warfarin alone: 1.9 (1.3 - 2.8)
  - ASA+Clop : 2.9 (1.5 - 5.4)
 
 #### Conclusion:
@@ -22,13 +22,12 @@ For significant intracranial injury vs no agents. RR:
 
 ---
 
-## Systematic Review and Meta-analysis.
+## Systematic Review and Meta-analyses.
 
-### Systematic Review and Meta-Analysis: Is Pre-Injury Antiplatelet Therapy Associated With Traumatic Intracranial Hemorrhage? [^vandenBrand2017] 
+Systematic Review and Meta-Analysis: Is Pre-Injury Antiplatelet Therapy Associated With Traumatic Intracranial Hemorrhage? [^vandenBrand2017] 
 
-### A Meta-Analysis to determine the effect of preinjury antiplatelet agents on mortality in patients with blunt head trauma [^Batchelor2013]
+A Meta-Analysis to determine the effect of preinjury antiplatelet agents on mortality in patients with blunt head trauma [^Batchelor2013]
 
----
 
 
 [^Probst2020]: Probst MA, Gupta M, Hendey GW, Rodriguez RM, Winkel G, Loo GT, Mower WR - Ann Emerg Med - May 7, 2020; 75 (3); 354-364 PubMedID: 3195938
@@ -36,4 +35,4 @@ For significant intracranial injury vs no agents. RR:
 [^vandenBrand2017]: van den Brand CL, Tolido T, Rambach AH, Hunink MG, Patka P, Jellema K. Systematic Review and Meta-Analysis: Is Pre-Injury Antiplatelet Therapy Associated with Traumatic Intracranial Hemorrhage?. J Neurotrauma. 2017;34(1):1-7. doi:10.1089/neu.2015.4393
 
 [^Batchelor2013]: Batchelor JS, Grayson A. A meta-analysis to determine the effect of preinjury antiplatelet agents on mortality in patients with blunt head trauma. Br J Neurosurg. 2013;27(1):12-18. doi:10.3109/02688697.2012.705361
-
+/home/nigel/Documents/GitHub/EBR/neuro/neuro_headinjury&AntiCoag.md

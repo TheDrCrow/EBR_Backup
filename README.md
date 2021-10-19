@@ -5,7 +5,12 @@ More of a personal knowledge archive for snippets of stuff I read, forget and th
 
 --- 
 
+### General 
+Nightsweats
+
 ### Neurology
+
+[Confusion in Elderly](neuro/ConfusionCT^.md)  
 [Guillan-Barre Syndrome](neuro/neuro_GBS.md)  
 [HI & Anti-Coagulation](neuro/neuro_headinjury&AntiCoag.md)  
 [SAH](neuro/neuro_SAH_FF.md)  
