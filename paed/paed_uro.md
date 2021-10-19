@@ -2,22 +2,22 @@
 ## The guidelines for the usual presentations.   
 - [Paediatric Urology.](#paediatric-urology)
 	- [The guidelines for the usual presentations.](#the-guidelines-for-the-usual-presentations)
-		- [UTI](#uti)
 		- [Cryptorchidism [^Uroweb2021]](#cryptorchidism-uroweb2021)
 			- [Classification & Phrases](#classification--phrases)
 			- [Investigation.](#investigation)
 			- [Managment.](#managment)
+		- [Testicular Microlithiasis.](#testicular-microlithiasis)
+			- [Diagnosis](#diagnosis)
+			- [Management](#management)
 		- [Scrotal Swelling / Hydrocele / Hernia. [^Uroweb2021]](#scrotal-swelling--hydrocele--hernia-uroweb2021)
-			- [Diagnosis.](#diagnosis)
+			- [Diagnosis.](#diagnosis-1)
 			- [Treatment.](#treatment)
 		- [Antenatal Hydronephrosis. [^UTD2014]](#antenatal-hydronephrosis-utd2014)
 			- [Postnatal.](#postnatal)
-				- [Management.](#management)
+				- [Management.](#management-1)
+		- [UTI](#uti)
 
 
---- 
-
-### UTI 
 
 --- 
 
@@ -47,6 +47,27 @@ At 6m as low probability of resolution later.
 Complete treatments by 12- 18mo as from this age there is loss of Germ & Leydig cells.  
 Aims of treatment are adult hormone production, speramtogenesis and risk of malignancy. 
 
+--- 
+
+### Testicular Microlithiasis. 
+
+#### Diagnosis
+
+Either *5 per high power field* or *10 per testis* 
+Though clustering is important and concerning.
+Diffuse with atrophy is concerning and associated with infertility.
+
+#### Management 
+
+ESUR recommend Annual US surveillance only if they have one of these risk-factors. [^ESUR2016]
+- Previous GCT 
+- History of maldescent.
+- Prior Orchidopexy.
+- Atrophy with volume < 12ml. 
+- First - degree relative with a history of GCT. 
+
+[^ESUR2016]: Richenberg JR, Testicular microlithiasis imaging and follow-up: guidelines of the ESUR scrotal imaging subcommittee. Eur Radiol (2015) 25:323–330 
+  
 ---
 
 ### Scrotal Swelling / Hydrocele / Hernia. [^Uroweb2021]
@@ -82,20 +103,25 @@ Defined both 'A' = antenatal findings and management *and*
 #### Postnatal. 
 - For >48hrs post delivery.  
 
-| Risk Level | APRPD | Calyceal Dilatation | Parenchyma | Ureters | Bladder | 
-|:---|:---|:---|:---|:---|:---|
-| LOW = 'UTD P1' | **10- <15mm** | **Central only**. | Normal Thickness & Appearance. | Normal | Normal | 
-| INTERMEDIATE = 'UTD P2' | **>=15mm** | Central &/or **Peripheral** | Normal Thickness or Appearance | **Abnormal** | Normal | 
-| HIGH = 'UTD P3' | >=15mm | Central &/or Peripheral | **Abnormal Thickness or Appearance**. | Abnormal | **Abnormal** | 
+| Risk Level              | APRPD         | Calyceal Dilatation         | Parenchyma                            | Ureters      | Bladder      |
+| :---------------------- | :------------ | :-------------------------- | :------------------------------------ | :----------- | :----------- |
+| LOW = 'UTD P1'          | **10- <15mm** | **Central only**.           | Normal Thickness & Appearance.        | Normal       | Normal       |
+| INTERMEDIATE = 'UTD P2' | **>=15mm**    | Central &/or **Peripheral** | Normal Thickness or Appearance        | **Abnormal** | Normal       |
+| HIGH = 'UTD P3'         | >=15mm        | Central &/or Peripheral     | **Abnormal Thickness or Appearance**. | Abnormal     | **Abnormal** |
 
 
 ##### Management. 
 
-Level | Follow Up US | MCUG | Abx | MAG3 / Functional Scan |
-|:---|:---|:---|:---|:---|
-| UTD P1 | 1 to 6 months. | *Discretion of clinician* | *Discretion of clinician* | Not recommended. |
-UTD P2 | 1 to 3 months | *Discretion of clinician*  | *Discretion of clinician*| *Discretion of clinician* | 
-UTD P3 | 1 month | Recommended | Recommended | *Discretion of clinician* | 
+| Level  | Follow Up US   | MCUG                      | Abx                       | MAG3 / Functional Scan    |
+| :----- | :------------- | :------------------------ | :------------------------ | :------------------------ |
+| UTD P1 | 1 to 6 months. | *Discretion of clinician* | *Discretion of clinician* | Not recommended.          |
+| UTD P2 | 1 to 3 months  | *Discretion of clinician* | *Discretion of clinician* | *Discretion of clinician* |
+| UTD P3 | 1 month        | Recommended               | Recommended               | *Discretion of clinician* |
+
+
+--- 
+
+### UTI 
 
 ---
 
