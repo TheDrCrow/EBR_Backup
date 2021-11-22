@@ -1,3 +1,5 @@
+# **Puberty Abnormalities**
+
 # Precocious Puberty (PP)
 
 ## Definition and Diagnosis
@@ -25,14 +27,14 @@ Males: <10% idiopathic. Investigate all.
 
 | General                | Specific                          | Notes                                       |
 | :--------------------- | :-------------------------------- | :------------------------------------------ |
-| A) TUMOURS             |                                   |
+| A) TUMOURS             |                                   | |
 |                        | Optic & Hypothalamic Gliomas.     | inc Astrocytomas.                           |
-|                        | Optic & Hypothalamic Ependymomas. |
-|                        | Pineal Tumours.                   |
+|                        | Optic & Hypothalamic Ependymomas. | |
+|                        | Pineal Tumours.                   | |
 |                        | Hamartomas of Tuber cinerum.      | often in very young and 'gelastic epilepsy' |
 |                        | Craniopharyngiomas                | Rare cause!                                 |
-| B) CONGENITAL          |                                   |
-|                        | Neurofibromatosis.                |
+| B) CONGENITAL          |                                   | |
+|                        | Neurofibromatosis.                | |
 | C) TRAUMA & IATROGENIC |                                   |
 |                        | Hydrocephalus                     |
 |                        | Head Injury                       |
@@ -40,5 +42,13 @@ Males: <10% idiopathic. Investigate all.
 |                        | Surgery.                          |
 |                        | Radiotherapy.                     | But HIGH dose assocd with delay.            |
 | D) IDIOPATHIC          |                                   |
-## Reference: 
-BMJ 2021 [^BMJ2021]: https://bestpractice.bmj.com/topics/en-gb/1127/investigations
+
+---- 
+
+## Delayed Puberty 
+
+### Female Delayed Puberty
+
+### Male Delayed Puberty
+
+
