@@ -12,6 +12,8 @@
 		- [Scrotal Swelling / Hydrocele / Hernia. [^Uroweb2021]](#scrotal-swelling--hydrocele--hernia-uroweb2021)
 			- [Diagnosis.](#diagnosis-1)
 			- [Treatment.](#treatment)
+		- [Varicocele in Children](#varicocele-in-children)
+			- [Imaging](#imaging)
 		- [Antenatal Hydronephrosis. [^UTD2014]](#antenatal-hydronephrosis-utd2014)
 			- [Postnatal.](#postnatal)
 				- [Management.](#management-1)
@@ -93,6 +95,25 @@ Later onset hydroceles, suggesting secondary, then leave for 6 to 9 months as 75
 
 --- 
 
+### Varicocele in Children 
+
+**Uroweb**[^Uroweb2021] states:  
+- 15%+ of adolescents. 85% are LEFT sided.
+- Development relates to ^^ Blood flow.
+- Varicocele can => Heat stress => Abnormal in 45%, Severe 20%.
+- - 20% Infertilty.
+- Can get catch up growth post varicolectomy. But no need until they are an adolescent.
+
+#### Imaging 
+'Extension of Wilms tumour into the renal vein and inferior vena cava can cause a secondary varicocele. A renal US should be routinely added in pre-pubertal boys and in isolated right varicocele (LE: 4).'
+> But 2 papers are quoted, neither demonstrate the rate/outcome that this presentation happens instead they deal with the effects of a varicocele.
+
+Also suggest doing the Anna Thornton stand up and demonstrate the reversal of blood flow when erect thing?? 
+
+iREFER[^iREFER2021] just talks about infertility and does NOT mention doing US Kidneys.
+  
+---
+
 ### Antenatal Hydronephrosis. [^UTD2014]
 
 Based on consensus from ACR, AIUM, ASPN, SFU, SPU, SRU and others. 
@@ -127,4 +148,5 @@ Defined both 'A' = antenatal findings and management *and*
 
 
 [^Uroweb2021]: https://uroweb.org/guideline/paediatric-urology/
-[^UTD2014]:Nguyen HT et al, Multidisciplinary consensus on the classification of prenatal and postnatal urinary tract dilation (UTD classification system). J Ped Uro 10 (2014), 982-999. In papers. 
+[^UTD2014]: Nguyen HT et al, Multidisciplinary consensus on the classification of prenatal and postnatal urinary tract dilation (UTD classification system). J Ped Uro 10 (2014), 982-999. In papers. 
+[^iREFER2021]: https://www.irefer.org.uk/guidelines 
