@@ -20,10 +20,8 @@ Nightsweats
 [Head & Neck Staging](head_neck/h&n_Oral_Pharynx_Staging.md)
 
 ### Chest & Vascular  
-[ILD in CTD](chest/chest_ILD_CTD.md)  
-[Lung Filter](chest/chest_Lung_Filter.md)  
-[Lung Nodules](chest/chest_lungNodules.md)  
-[PE ClinicalLRs](chest/chest_PE_clinicalLRs^.md)  
+[ILD in CTD](chest/chest_ILD_CTD.md) || [Lung Filter](chest/chest_Lung_Filter.md) || [Lung Nodules](chest/chest_lungNodules.md)  
+[PE ClinicalLRs](chest/chest_PE_clinicalLRs^.md)
 [Peripheral Angio](chest/chest_peripheralAngio_FF.md)  
 
 ### Abdominal & GIT  

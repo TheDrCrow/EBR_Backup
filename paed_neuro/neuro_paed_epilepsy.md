@@ -1,5 +1,19 @@
 # Epilepsy Imaging 
+1. [Epilepsy Imaging](#epilepsy-imaging)
+   1. [Diagnosis [^Gill_2021]](#diagnosis-gill_2021)
+         1. [Developmental & Epileptogenic Encephalopathy.](#developmental--epileptogenic-encephalopathy)
+      1. [**Causes** [^Choudri_2017]](#causes-choudri_2017)
+   2. [Imaging](#imaging)
+      1. [Indications [^Gill_2021]](#indications-gill_2021)
+         1. [Indications for Repeating MRI.](#indications-for-repeating-mri)
+      2. [Technical [^ILAE_2019]](#technical-ilae_2019)
+      3. [Reporting  [^ILAE_2019]](#reporting--ilae_2019)
+         1. [Analysis for Temporal Lobe Epilepsy.](#analysis-for-temporal-lobe-epilepsy)
+         2. [Analysis for Focal Cortical Dysplasia [^EBR_2021]](#analysis-for-focal-cortical-dysplasia-ebr_2021)
+      4. [Complications & Weird Stuff.](#complications--weird-stuff)
+         1. [Medication Effects.](#medication-effects)
 
+---
 
 [^Gill_2021]:Gill D, ILAE Update (Lecture) SPIN 2021.
 [^ILAE_2019]:Bernasconi A et al, Recommendations for the use of structural magnetic resonance imaging in the care of patients with epilepsy: A consensus report from ILAE Neuroimaging Task Force. Epilepsia. 2019;60:1054–1068.DOI: 10.1111/epi.15612 Papers+
@@ -9,11 +23,11 @@
 
 ## Diagnosis [^Gill_2021]
 
-![ILAE Diagnosis](Images/ILAE_Classification_Overview.jpg) 
+![ILAE Diagnosis](/paed_neuro/Images/ILAE_Classification_Overview.png) 
 
 Defined as **"Recurrent, unprovoked seizures."** 
-Important to get diagnosis right clinically, as per the ILAE Guidelines.[^ILAE_2017]
-Important to get imaging right early to spot the lesions as per the ILAE guidelines.[^ILAE_2019]
+Important to get diagnosis right clinically, as per the ILAE Guidelines.[^ILAE_2017]  
+Important to get imaging right early to spot the lesions as per the ILAE guidelines.[^ILAE_2019]  
 Important to operate early on those with lesions to prevent DEE & because success of surgery is better earlier than later.  
 `DEE = Developmental and Epileptogenic encephalopathy.`
 
@@ -50,6 +64,8 @@ Divided into:
    2. Haemosiderin - from bleeds is more epileptogenic. 
       1. Cavernoma with haemosiderin are likely epileptogenic
 
+---
+
 ## Imaging 
 
 ### Indications [^Gill_2021] 
@@ -61,7 +77,8 @@ ILAE published Guidelines in 2009 which put in modern lingo are:
 4. < 2 ys old
 5. DEE (was called Symptomatic generalised Epilepsy Syndrome)
 6. Status Epilepticus
-7. Atypical course in any childhood epilepsy syndrome decline, poorly controlled seizures, focal spike on generalized epilepsy. 
+7. Atypical course in any childhood epilepsy syndrome decline, poorly controlled seizures, focal spike on generalized epilepsy.   
+
 `BECTS = Benign Epilepsy with Centrotemporal Spikes`  
 
 NOT indicated for: 
