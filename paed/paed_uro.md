@@ -17,7 +17,13 @@
 		- [Antenatal Hydronephrosis. [^UTD2014]](#antenatal-hydronephrosis-utd2014)
 			- [Postnatal.](#postnatal)
 				- [Management.](#management-1)
-		- [UTI](#uti)
+		- [UTI *NICE* [^NICE2018]](#uti-nice-nice2018)
+				- [Atypical UTI](#atypical-uti)
+				- [Recurrent UTI](#recurrent-uti)
+			- [Infants < 6 months old](#infants--6-months-old)
+			- [Infants and Children 6 Months to 3 years old.](#infants-and-children-6-months-to-3-years-old)
+			- [Children > 3years old.](#children--3years-old)
+			- [Also in the Guidance.](#also-in-the-guidance)
 
 
 
@@ -142,11 +148,75 @@ Defined both 'A' = antenatal findings and management *and*
 
 --- 
 
-### UTI 
+### UTI *NICE* [^NICE2018]
+
+##### Atypical UTI 
+- Seriously ill. 
+- Septicaemia
+- Poor urine flow.
+- Abdominal or Bladder mass.
+- Raised Creatinine
+- Infection with non E.coli organisms
+- Failure to respond to treatment with suitable Abx in <48 hrs.
+
+##### Recurrent UTI 
+
+- 2 or more episodes of UTI with acute pyelonephritis/upper urinary tract infection, or
+- 1 of upper AND 1 or more of lower, or
+- 3 or more episodes of UTI with cystitis / lower UTI. 
+
+#### Infants < 6 months old 
+
+Test | Good response <48/24 | Atypical UTI | Recurrent UTI
+---|---|---|---|
+USS during Acute | No | Yes | Yes 
+USS < 6 wk | Yes^a^ | No | No 
+DMSA 4-6M | No | Yes | Yes 
+MCUG | No | Yes | Yes 
+
+> a = If abnormal, consider MCUG.
+
+#### Infants and Children 6 Months to 3 years old.
+
+Test | Good response <48/24 | Atypical UTI | Recurrent UTI
+---|---|---|---|
+USS during Acute | No | Yes | No 
+USS < 6 wk | No | No | Yes 
+DMSA 4-6M | No | Yes | Yes 
+MCUG | No | No ^a^ | No ^a^
+
+> a = Consider MCUG if following present
+> - Dilatation on US.
+> - Poor urine flow.
+> - Non E-coli infection.
+> - FH of VUR. 
+
+#### Children > 3years old. 
+
+Test | Good response <48/24 | Atypical UTI | Recurrent UTI
+---|---|---|---|
+USS during Acute | No | Yes | No 
+USS < 6 wk | No | No | Yes 
+DMSA 4-6M | No | No | Yes 
+MCUG | No | No  | No 
+
+> US in toilet-trained kids should be with FB and PMR.
+
+In all of the above, a child with a non E.coli infection but no other atypical features and responding well to treatment, then US can be done on a delayed basis. 
+
+#### Also in the Guidance.
+
+1.5.1.6 Infants and children with a minor, unilateral renal parenchymal defect do not need long-term follow-up unless they have recurrent UTI or family history or lifestyle risk factors for hypertension. [2007]
+
+1.5.1.7 Infants and children who have bilateral renal abnormalities, impaired kidney function, raised blood pressure and/or proteinuria should receive monitoring and appropriate management by a paediatric nephrologist to slow the progression of chronic kidney disease. [2007]
+
+1.5.1.8 Infants and children who are asymptomatic following an episode of UTI should not routinely have their urine re-tested for infection. [2007]
+
+1.5.1.9 Asymptomatic bacteriuria is not an indication for follow-up. [2007]
 
 ---
-
 
 [^Uroweb2021]: https://uroweb.org/guideline/paediatric-urology/
 [^UTD2014]: Nguyen HT et al, Multidisciplinary consensus on the classification of prenatal and postnatal urinary tract dilation (UTD classification system). J Ped Uro 10 (2014), 982-999. In papers. 
 [^iREFER2021]: https://www.irefer.org.uk/guidelines 
+[^NICE2018]: https://www.nice.org.uk/guidance/cg54
