@@ -29,8 +29,8 @@ Nightsweats
 [Inguinal Hernias](abdominal/git_inguinalHernias.md)  
 
 ### Genito-urinary  
-[CTU & KUB](genito-urinary/uro_CTU&KUB_FF.md)  
-[Prostate Ca](genito-urinary/uro_prostateCa_fu.md)  
+[CTU & KUB](genito-urinary/uro_CTU&KUB_FF.md) || [Prostate Ca](genito-urinary/uro_prostateCa_fu.md)  
+[Ectopic Pregnancy](genito-urinary/gynae_ectopicPreg.md)
 
 ### MSK  
 [Knee Trauma](msk/msk_knee_ff.md)  
@@ -47,9 +47,8 @@ Nightsweats
 ### Paediatrics 
 [Precocious Puberty](paed/paed_endo_precociousPuberty.md)  
 [Gynae](paed/paed_gynae_FF.md)  
-[Ortho Feet](paed/paed_ortho_feet.md)  
-[Ortho Hips](paed/paed_ortho_hips.md)  
 [Urology Guidelines](paed/paed_uro.md)  
+[Feet](paed/paed_ortho_feet.md) || [Hips](paed/paed_ortho_hips.md)  
 
 ### Paediatric Neuroradiology  
 [Neuroanatomy](paed_neuro/neuro_paed_anatomy.md)   
