@@ -45,6 +45,7 @@ Nightsweats
 [Rectal MR](onco/onco_rectalMR_FF.md)  
 
 ### Paediatrics 
+[Cystic Fibrosis](paed/cystic_fibrosis.md)
 [Precocious Puberty](paed/paed_endo_precociousPuberty.md)  
 [Gynae](paed/paed_gynae_FF.md)  
 [Urology Guidelines](paed/paed_uro.md)  
