@@ -87,7 +87,9 @@ ESR | <=30 | <=30 | > 30
 
 --- 
 
-## Chronic Colitis 
+## Chronic Colitis
+
+[TODO]
 
 [^1]: https://www.nice.org.uk/guidance/ng130/chapter/Recommendations#treating-acute-severe-ulcerative-colitis-all-extents-of-disease (NICE 2019)
 

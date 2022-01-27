@@ -25,7 +25,8 @@ Nightsweats
 [Peripheral Angio](chest/chest_peripheralAngio_FF.md)  
 
 ### Abdominal & GIT  
-[HCC in Cirrhosis](abdominal/git_HCC.md)  
+[HCC in Cirrhosis](abdominal/git_HCC.md) 
+[Colitis](abdominal/colitis.md) 
 [Inguinal Hernias](abdominal/git_inguinalHernias.md)  
 
 ### Genito-urinary  
@@ -47,8 +48,8 @@ Nightsweats
 ### Paediatrics 
 [Cystic Fibrosis](paed/cystic_fibrosis.md)
 [Precocious Puberty](paed/paed_endo_precociousPuberty.md)  
-[Gynae](paed/paed_gynae_FF.md)  
-[Urology Guidelines](paed/paed_uro.md)  
+[Gynaecology](paed/paed_gynae_FF.md)  
+[Urology](paed/paed_uro.md)  
 [Feet](paed/paed_ortho_feet.md) || [Hips](paed/paed_ortho_hips.md)  
 
 ### Paediatric Neuroradiology  
