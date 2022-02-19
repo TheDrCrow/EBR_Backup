@@ -169,7 +169,8 @@ Intestinal-type Adenocarcinoma is most common type.
 **Demo**: Rare=2% of Sinonasal Tumours, 2-90y x= 40y. 
 **Path:** Olfactory mucosa, thus Cribiform plate but also ectopic = lower nasal cavity or sinuses.Rarely intracranial. 
 **CF**: Occ paraneoplastic inc Cushings & SIADH. 
-**Staging:** KADISH A:In nasal cavity. B Nasal cavity & Sinuses. C:Beyond Sinonasal Cavity D:Regional nodes (6%) or mets (7%)
+**Staging:** 
+KADISH A:In nasal cavity. B Nasal cavity & Sinuses. C:Beyond Sinonasal Cavity D:Regional nodes (6%) or mets (7%)
 **Radiology**:
  - Dumb-bell shaped in superior nasal cavity with waist at cribiform plate.
  - Bone-remodelling > Destruction 
@@ -178,7 +179,7 @@ Intestinal-type Adenocarcinoma is most common type.
  - FDG: Often used as upstages 36%. 
  - FU: Gd MRI inc Neck = 4m for 2y, 6m for 2-5y, then 9m for life. 
 **Prognosis:** 
- - /?q=h%26n_Nasal_Sinus_Staging.md&t=canonical&atb=v1-1&ia=web5/10y OS = 62% / 46%. 
+ - 5/10y OS = 62% / 46%. 
  - 10y OS for A = 83% but D = 13% 
  - Local recurrence upto 60% 
  - Mets -> Brain, dura, lung, liver, parotid, bone, cord, skin in 15% at usually 1-20 months post but can be upto 10ys
@@ -186,13 +187,59 @@ Intestinal-type Adenocarcinoma is most common type.
  - Craniofacial resection & RT and neoadj Platinum chemoRx
  - No neck dissection unless indicated. 
 
-### Mucosal Melanoma  
+### Mucosal Melanoma MMHN
+
+**Demo:** M=F 60s. Rare = 4% of SN tumours & <1% of all MMs(but 8% in Japan). Risks: Formaldehyde
+**Path:** Neuroectodermal  
+No ref point to measure invasion thus all are T3+ 
+ - Sites: 52% Nasal cavity, 20% Paranasal sinuses.  
+15% Regional Nodes at presentation. <10% Mets. 
+50% End up with distant mets.  
+**Radiology**:  
+ - Often polypoid. 
+ - T1 High / T2 low 
+ - Amelanotic = Intermediate mostly 
+ - Gd +++
+**Rx:** Surgery not RT. Then immunotherapy. RT for recurrences occasionally
+**Prognosis:** 5yOS = 30% 
 
 ### Sinonasal NHL 
 
+**Demo:** 3M:F x=53y for NK Tcell. M:F x=63y for DLBCL.   
+14% of all SN tumours. 
+**CF**: Mostly local signs  +/- B symptoms.  
+Rare in NK T-cell is Haemophagocytic syndrome with pancytopenia.  
+**Path**: 2 main types:
+ - DLBCL = Most 
+ - NK / T-cell lymphoma = in Asia / S. America . 100% EBV but role not clear. 
+**Radiology:**
+ - CT: High. But variable. 
+ - Gd++ 
+ - Bone destruction is common. 
+ - FDG: High for both. 
+
+
+### Sinonasal Chondrosarcoma 
+
+**Demo**: Rare 0.1% of all H+N, but most common sarcoma. M>F 60s. 
+**Radiology**
+- CT: 'Rings and arcs' Ca2+ with Low matrix. 
+- MR: Matrix is High T2. 
+- Gd: +/++
+**Prognosis** Good but late recurrence is common.
+
+### Sinonasal Osteosarcoma  
+
+**Demo**: M:F 20-30 
+**Path:** 
+- Site: Jaw > Maxilla (alveolar ridge)
+**Radiology** 
+- Osteoid matrix
+- Sunburst periosteal reaction. 
+- T1 = look for marrow infiltration. 
+
 ### Tumour Table 
 
-Name | Demo | Path | CF | Radiology | Other |
+Name | Demo | CF | Path | Radiology | Other |
 |:---|:---|:---|:---|:---|:---|
-Inverted Papilloma | M 40-70 | Ecto derived ciliated respiratory membrane (Schneiderian) => 3 types of papilloma. Inverted is 60%.<br>Benign and locally aggressive. 20% foci of Ca.<br>Site: Lateral nasal wall near middle turbinate or ethnoid recess. => Max / Ethm sinuses.|Nothing specific |CT: Solitary Polyp<br>Ca2+ = Common<br>Focal hyperostosis, often pear/plaque shaped.<br> MRI: Convoluted Cribiform Pattern (CCP) 96% PPV<br>T2 = alternating Inc/Dec bands.<br>FDG: High in IPs & SCC degen.| Recurrence = 15% <br>Rx = Surgical Resection |
-
+Inverted Papilloma | M 40-70 |Nothing specific | Ecto derived ciliated respiratory membrane (Schneiderian) => 3 types of papilloma.  Inverted is 60%.  Benign and locally aggressive. 20% foci of Ca.<br>Site: Lateral nasal wall near middle turbinate or ethnoid recess. => Max / Ethm sinuses.|CT: Solitary Polyp<br>Ca2+ = Common<br>Focal hyperostosis, often pear/plaque shaped.<br> MRI: Convoluted Cribiform Pattern (CCP) 96% PPV<br>T2 = alternating Inc/Dec bands.<br>FDG: High in IPs & SCC degen.| Recurrence = 15% <br>Rx = Surgical Resection |
