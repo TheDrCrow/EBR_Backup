@@ -106,4 +106,93 @@ Invades Sphenoid (60%), Maxillary (43%), Ethmoid (35%)
 
 **Rx:** Angio of ECA then resect. 
 **Recurrence:** 15-20% often in basisphenoid thus surveillance.  
-RT is used if unresectable 
+RT is used if unresectable.  
+
+### AdenoCarcinoma  AC
+
+**Demo**: 3M:F 50-60 Risks=  Wood 500-900x, Leather. 
+**CF**: Usual and epistaxis. 
+**Path**: From surface epithelium or minor salivary gland rests.  
+Intestinal-type Adenocarcinoma is most common type.  
+4 sub-types: 
+  1. Colonic (40%)
+  2. Solid 
+  3. Papillary 
+  4. Mucinous / Mixed type.  
+**Site:** 
+ - Ethmoid: 40% 
+ - Nasal Cavity 30% 
+ - Maxillary 25%   
+**Radiology** 
+ - Poorly defined mass. 
+ - Bone destruction > remodelling. 
+ - Enhancement ++ 
+ - FDG useful for Met vs 1y AC
+**Prognosis:** 
+= f(grade)
+ - 8% LN at presentation. 
+ - 13% distant mets at presentation. 
+ - 5y OS = 50%. 50% will recur => RIP. 
+
+### Sinonasal Undifferentiated Carcinoma SNUC 
+
+**Demo:** 3M:F 8-85y.  x= 50s. Rare.
+**Path:** Uncertain histiogenesis.
+**Site:** Nasal cavity => Ethmoid > Maxillary cavity. 
+**Radiology:** 
+ - Large (>4cm) 
+ - Invasive +
+ - Bone Destruction ++ 
+**Prog**:
+ - 25% LN at presentation. 
+ - Mets -> Bone, Brain & liver. 
+ - 5y OS = 35% 
+
+### Minor Salivary Gland Tumours 
+
+#### Adenoid Cystic Carcinoma = most common. 
+
+**Demo**: 20-91y 
+**CF**: Occ Facial numbness due to V2 invasion. 
+**Path:** 
+ - Low Grade, thus insidious, thus 2/3 T4 at presentation. 
+ - 50% have perineural spread. 
+**Site** 
+- 60% Maxillary sinus. 
+- 25% Nasal Cavity 
+**Radiology:**
+ - Low grade = Solid, enhancing, well-defined mass +/- bone remodelling (?polyps)
+ - High grade = heterogeneous, enhancing, poorly defined mass with bone Destruction
+ - FDG = Low uptake. 
+
+### Olfactory Neuroblastoma ON 
+**Demo**: Rare=2% of Sinonasal Tumours, 2-90y x= 40y. 
+**Path:** Olfactory mucosa, thus Cribiform plate but also ectopic = lower nasal cavity or sinuses.Rarely intracranial. 
+**CF**: Occ paraneoplastic inc Cushings & SIADH. 
+**Staging:** KADISH A:In nasal cavity. B Nasal cavity & Sinuses. C:Beyond Sinonasal Cavity D:Regional nodes (6%) or mets (7%)
+**Radiology**:
+ - Dumb-bell shaped in superior nasal cavity with waist at cribiform plate.
+ - Bone-remodelling > Destruction 
+ - T1:Low/Int T2: Int/High. Occ cystic from necrosis. 
+ - Enhance: +++ homogeneous.
+ - FDG: Often used as upstages 36%. 
+ - FU: Gd MRI inc Neck = 4m for 2y, 6m for 2-5y, then 9m for life. 
+**Prognosis:** 
+ - /?q=h%26n_Nasal_Sinus_Staging.md&t=canonical&atb=v1-1&ia=web5/10y OS = 62% / 46%. 
+ - 10y OS for A = 83% but D = 13% 
+ - Local recurrence upto 60% 
+ - Mets -> Brain, dura, lung, liver, parotid, bone, cord, skin in 15% at usually 1-20 months post but can be upto 10ys
+ **Rx:**
+ - Craniofacial resection & RT and neoadj Platinum chemoRx
+ - No neck dissection unless indicated. 
+
+### Mucosal Melanoma  
+
+### Sinonasal NHL 
+
+### Tumour Table 
+
+Name | Demo | Path | CF | Radiology | Other |
+|:---|:---|:---|:---|:---|:---|
+Inverted Papilloma | M 40-70 | Ecto derived ciliated respiratory membrane (Schneiderian) => 3 types of papilloma. Inverted is 60%.<br>Benign and locally aggressive. 20% foci of Ca.<br>Site: Lateral nasal wall near middle turbinate or ethnoid recess. => Max / Ethm sinuses.|Nothing specific |CT: Solitary Polyp<br>Ca2+ = Common<br>Focal hyperostosis, often pear/plaque shaped.<br> MRI: Convoluted Cribiform Pattern (CCP) 96% PPV<br>T2 = alternating Inc/Dec bands.<br>FDG: High in IPs & SCC degen.| Recurrence = 15% <br>Rx = Surgical Resection |
+
