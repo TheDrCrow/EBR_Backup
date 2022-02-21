@@ -1,4 +1,4 @@
-## [EBR](~/Documents/GitHub/EBR/README.md)
+## [EBR](/EBR/README.md)
 
 # Sinus, Nasal and Nasopharyngeal Tumours. 
 
