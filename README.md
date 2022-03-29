@@ -21,7 +21,8 @@ Nightsweats
 [Sinonasal Staging](head_neck/h&n_Nasal_Sinus_Staging.md)
 
 ### Chest & Vascular  
-[ILD in CTD](chest/chest_ILD_CTD.md) || [Lung Filter](chest/chest_Lung_Filter.md) || [Lung Nodules](chest/chest_lungNodules.md)  
+[ILD in CTD](chest/chest_ILD_CTD.md) || [Lung Filter](chest/chest_Lung_Filter.md) || [Lung Nodules](chest/chest_lungNodules.md) 
+[Pleural Effusions](chest/pleural_effusion.md)
 [PE Clinical LRs](chest/chest_PE_clinicalLRs^.md)  
 [Peripheral Angio](chest/chest_peripheralAngio_FF.md)  
 
