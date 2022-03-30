@@ -36,9 +36,33 @@ Very hawkish about doing lots of MR:
 
 ### Clear Definition & Classifications have been [^2] 
 
+Lavy et al [^2] reviewed 21ys of papers to 2021. n=212.  
+To find Definition & Classification of CES.  
+Medicolegal issues are mentioned prominently.  
+Accept that definitions are uncertain and that there is a role and need for a clinical judgement. 
+
 Anatomically the CE is all the roots from the distal spinal cord from L1 to S5.  
 Roots L1 to S1 are the legs and do not produce the clinical syndrome of 'CES'.  
 > 'Cauda equina syndrome is historically used to describe the result of the dysfunction of S2 - S5'
+
+Recommend: as a practical definition. 
+> Cauda equina syndrome is a clinical diagnosis resulting from dysfunction of one or more of the sacral nerve roots S2 and below. One or more of the following symptoms or signs must be present:  
+> - Bladder and/or bowel dysfunction. 
+> - Reduced sensation in the saddle area. 
+> - Sexual dysfunction. 
+> Back and leg pain, and lower limb motor or sensory changes are often present but are not essential to the diagnosis.  
+> Nerve root compression is the commonest cause and MRI scanning is usually needed for confirmation.  
+
+**Other Classifications**  
+
+By presentation. *Tandon & Sankaran*
+| Type | Description | Notes |
+|:---|:---|:---|
+Type 1 | Rapid onset of CES symptoms with no past history of back problems | Rare in Litigation.
+Type 2 | Acute bladder / CES symptoms with a history of back pain and sciatica. | Majority in Litigation. 
+Type 3 | Longstanding back problems and gradually progressive CES often with spinal stenosis | "usually non-urgent". Elderly, more tolerant of reduction in bladder/bowel/sexual function.  
+
+Multifactorial Classification. *Shi et al*  
 
 
 
