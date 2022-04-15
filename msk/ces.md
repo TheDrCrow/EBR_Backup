@@ -31,7 +31,7 @@ Draws clear lines of operate before there are signs.
   - Urinary retention or incontinence 
   - Faecal incontinence. 
   - Perineal sensation. 
-l
+
 But states '48-93%' of CESR can show improvement post op with some evidence for surgery within 12-72 hours.  
 Very hawkish about doing lots of MR:
  > 'MR Imaging of the ? CES patient is part of triage and should be performed at the DGH, 24 hours a day, 7 days a week, prior to discussion with the Regional Centre.'
