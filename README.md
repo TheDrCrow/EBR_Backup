@@ -10,7 +10,7 @@ Nightsweats
 
 ### Neurology
 
-[Confusion in Elderly](neuro/ConfusionCT^.md)  
+[Confusion in Elderly](neuro/Confusion_CT^.md)  
 [Guillan-Barre Syndrome](neuro/neuro_GBS.md)  
 [HI & Anti-Coagulation](neuro/neuro_headinjury&AntiCoag.md)  
 [SAH](neuro/neuro_SAH_FF.md)  
@@ -21,14 +21,15 @@ Nightsweats
 [Sinonasal Staging](head_neck/h&n_Nasal_Sinus_Staging.md)
 
 ### Chest & Vascular  
-[ILD in CTD](chest/chest_ILD_CTD.md) || [Lung Filter](chest/chest_Lung_Filter.md) || [Lung Nodules](chest/chest_lungNodules.md)  
-[PE ClinicalLRs](chest/chest_PE_clinicalLRs^.md)
+[ILD in CTD](chest/chest_ILD_CTD.md) || [Lung Filter](chest/chest_Lung_Filter.md) || [Lung Nodules](chest/chest_lungNodules.md) 
+[Pleural Effusions](chest/pleural_effusion.md)
+[PE Clinical LRs](chest/chest_PE_clinicalLRs^.md)  
 [Peripheral Angio](chest/chest_peripheralAngio_FF.md)  
 
 ### Abdominal & GIT  
-[HCC in Cirrhosis](abdominal/git_HCC.md) 
-[Colitis](abdominal/colitis.md) 
-[Inguinal Hernias](abdominal/git_inguinalHernias.md)  
+[HCC in Cirrhosis](abdominal/git_HCC.md)  
+[Colitis](abdominal/colitis.md)  
+[Inguinal Hernias](abdominal/git_inguinalHernias.md)   
 
 ### Genito-urinary  
 [CTU & KUB](genito-urinary/uro_CTU&KUB_FF.md) || [Prostate Ca](genito-urinary/uro_prostateCa_fu.md)  
@@ -40,14 +41,14 @@ Nightsweats
 [Radial Neck Fracure](msk/msk_fracture_radialneck.md)  
 
 ### Oncology 
-[Febrile Neutropenia](onco/onco_neutropenic_sepsis.md) || [AML CT](onco/onco_AML_CT.md) 
-[MSCC](onco/mscc.md)
-[Melanoma](onco/onco_melanoma_NICE^.md)  
+[Febrile Neutropenia](onco/onco_neutropenic_sepsis.md) || [MSCC](onco/mscc.md) || [Paraneoplatic](onco/paraneoplastic.md)  
+[AML](onco/onco_AML_CT.md)  
 [Myeloma](onco/onco_myeloma_FF.md)  
+[Melanoma](onco/onco_melanoma_NICE^.md)   
 [Rectal MR](onco/onco_rectalMR_FF.md)  
 
 ### Paediatrics 
-[Cystic Fibrosis](paed/cystic_fibrosis.md)
+[Cystic Fibrosis](paed/cystic_fibrosis.md)  
 [Precocious Puberty](paed/paed_endo_precociousPuberty.md)  
 [Gynaecology](paed/paed_gynae_FF.md)  
 [Urology](paed/paed_uro.md)  
