@@ -107,3 +107,30 @@ Invades Sphenoid (60%), Maxillary (43%), Ethmoid (35%)
 **Rx:** Angio of ECA then resect. 
 **Recurrence:** 15-20% often in basisphenoid thus surveillance.  
 RT is used if unresectable 
+
+### Malignant Squamous Cell Carcinoma. 
+**Demo**: 2M:F 50-70
+**Epid**: Wood (20x^) also leather, textile  
+Smoking (2-3x^)  
+HPV ~ some with probably better prognosis.  
+**Site:**
+- Maxillary sinus (60%)
+- Nasal Cavity (20%)
+- Ethmoid (15%)
+- Other sites are Rare.
+**Spread:**
+**Stage**: 
+- Most T3/T4 
+- Local or Regional recurrence ahead of distant Spread
+- Nodes: 10-20% at presentation = 10% 5y OS. 
+**Prognosis**: 
+- Mostly 50% 5y OS = f(stage)
+**Radiology** 
+  - Bone Destruction++
+  - Enhancement+ (< AC, ON, MM)
+  - T2 = Intermediate. 
+**Spread**
+- Perineural V1 => PPF. 
+- Perineural V2 => Foramen Rotundem => Cavernous Sinuses 
+**Rx** 
+- Surgery then post - op RT. 
