@@ -2,33 +2,38 @@
 
 # Paediatric Urology.
 ## The guidelines for the usual presentations.   
-1. [Paediatric Urology.](#paediatric-urology)
-	1. [The guidelines for the usual presentations.](#the-guidelines-for-the-usual-presentations)
-		1. [Cryptorchidism [^Uroweb2021]](#cryptorchidism-uroweb2021)
-			1. [Classification & Phrases](#classification--phrases)
-			2. [Investigation.](#investigation)
-			3. [Managment.](#managment)
-		2. [Testicular Microlithiasis.](#testicular-microlithiasis)
-			1. [Diagnosis](#diagnosis)
-			2. [Management](#management)
-		3. [Scrotal Swelling / Hydrocele / Hernia. [^Uroweb2021]](#scrotal-swelling--hydrocele--hernia-uroweb2021)
-			1. [Diagnosis.](#diagnosis-1)
-			2. [Treatment.](#treatment)
-		4. [Varicocele in Children](#varicocele-in-children)
-			1. [Imaging](#imaging)
-		5. [Antenatal Hydronephrosis. [^UTD2014]](#antenatal-hydronephrosis-utd2014)
-			1. [Postnatal.](#postnatal)
-				1. [Management.](#management-1)
-		6. [UTI *NICE* [^NICE2018]](#uti-nice-nice2018)
-				1. [Atypical UTI](#atypical-uti)
-				2. [Recurrent UTI](#recurrent-uti)
-			1. [Infants < 6 months old](#infants--6-months-old)
-			2. [Infants and Children 6 Months to 3 years old.](#infants-and-children-6-months-to-3-years-old)
-			3. [Children > 3years old.](#children--3years-old)
-			4. [Also in the Guidance.](#also-in-the-guidance)
-		7. [Vesicoureteric Reflux.](#vesicoureteric-reflux)
+- [Paediatric Urology.](#paediatric-urology)
+	- [The guidelines for the usual presentations.](#the-guidelines-for-the-usual-presentations)
+		- [The 2022 EAU Guidelines are available here](#the-2022-eau-guidelines-are-available-here)
+		- [Cryptorchidism [^Uroweb2021]](#cryptorchidism-uroweb2021)
+			- [Classification & Phrases](#classification--phrases)
+			- [Investigation.](#investigation)
+			- [Managment.](#managment)
+		- [Testicular Microlithiasis.](#testicular-microlithiasis)
+			- [Diagnosis](#diagnosis)
+			- [Management](#management)
+		- [Scrotal Swelling / Hydrocele / Hernia. [^Uroweb2021]](#scrotal-swelling--hydrocele--hernia-uroweb2021)
+			- [Diagnosis.](#diagnosis-1)
+			- [Treatment.](#treatment)
+		- [Varicocele in Children](#varicocele-in-children)
+			- [Imaging](#imaging)
+		- [Antenatal Hydronephrosis. [^UTD2014]](#antenatal-hydronephrosis-utd2014)
+			- [Postnatal.](#postnatal)
+				- [Management.](#management-1)
+		- [UTI *NICE* [^NICE2018]](#uti-nice-nice2018)
+				- [Atypical UTI](#atypical-uti)
+				- [Recurrent UTI](#recurrent-uti)
+			- [Infants < 6 months old](#infants--6-months-old)
+			- [Infants and Children 6 Months to 3 years old.](#infants-and-children-6-months-to-3-years-old)
+			- [Children > 3years old.](#children--3years-old)
+			- [Also in the Guidance.](#also-in-the-guidance)
+		- [Vesicoureteric Reflux.](#vesicoureteric-reflux)
 
 
+
+--- 
+
+### The 2022 EAU Guidelines are available [here](../CrowNEST/../../CrowNEST/Papers/EAU_Paed_Uro_2022.pdf)
 
 --- 
 
