@@ -6,10 +6,10 @@ More of a personal knowledge archive for snippets of stuff I read, forget and th
 --- 
 
 ### General 
-Nightsweats
+[Nightsweats](general/general_nightsweats.md)
+[Confusion](general/general_confusion_ix.md)
 
 ### Neurology
-
 [Confusion in Elderly](neuro/Confusion_CT^.md)  
 [Guillan-Barre Syndrome](neuro/neuro_GBS.md)  
 [HI & Anti-Coagulation](neuro/neuro_headinjury&AntiCoag.md)  
@@ -19,6 +19,7 @@ Nightsweats
 [FESS](head&neck/h&n_FESS_FF.md)   
 [Head & Neck Staging](head_neck/h&n_Oral_Pharynx_Staging.md)
 [Sinonasal Staging](head_neck/h&n_Nasal_Sinus_Staging.md)
+[Thyroid Staging](head_neck/thyroid_cancer.md)
 
 ### Chest & Vascular  
 [ILD in CTD](chest/chest_ILD_CTD.md) || [Lung Filter](chest/chest_Lung_Filter.md) || [Lung Nodules](chest/chest_lungNodules.md) 
@@ -36,9 +37,11 @@ Nightsweats
 [Ectopic Pregnancy](genito-urinary/gynae_ectopicPreg.md)
 
 ### MSK  
+[Radial Neck Fracure](msk/msk_fracture_radialneck.md)  
 [Knee Trauma](msk/msk_knee_ff.md)  
 [Spine Degeneration](msk/msk_spinedegen_FF.md)  
-[Radial Neck Fracure](msk/msk_fracture_radialneck.md)  
+[Spine Stenosis](msk/Spinal Stenosis Assessment.pdf)
+[Cauda Equina Syndrome](msk/ces.md)  
 
 ### Oncology 
 [Febrile Neutropenia](onco/onco_neutropenic_sepsis.md) || [MSCC](onco/mscc.md) || [Paraneoplatic](onco/paraneoplastic.md)  
@@ -48,6 +51,7 @@ Nightsweats
 [Rectal MR](onco/onco_rectalMR_FF.md)  
 
 ### Paediatrics 
+[Neck Lumps](paed_neuro/paed_neck_lumps.md)
 [Cystic Fibrosis](paed/cystic_fibrosis.md)  
 [Precocious Puberty](paed/paed_endo_precociousPuberty.md)  
 [Gynaecology](paed/paed_gynae_FF.md)  
@@ -59,4 +63,5 @@ Nightsweats
 [Malformations](paed_neuro/neuro_paed_malformations.md)  
 [Supratentorial Malformations](paed_neuro/supratentorial_malformations.md)   
 [Epilepsy](paed_neuro/neuro_paed_epilepsy.md)  
-[Brain Tumours](paed_neuro/neuro_paed_brain_tumours.md)  
+[Brain Tumours](paed_neuro/neuro_paed_brain_tumours.md) 
+[Pituitary & Pineal](paed_neuro/neuro_paed_Pit_Pineal.md)

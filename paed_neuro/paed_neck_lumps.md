@@ -2,9 +2,6 @@
 # Neck lumps in Children 
 
 [^Bansal2018] is good review and in Papers. 
-
-
-
 [^McQueen2021]:McQueen A, Head & Neck US, SPIN 2021.
 [^Bansal2018]:Bansal A et al, US of Pediatric Superficial Mass of the Head & Neck, RadioGraphics 2018; 38:1239-1236. https://doi.org/10.1148/rg.2018170165. Papers+
 
