@@ -10,14 +10,14 @@ ESUR, SAR inter alia have published a Ovarian Ca specific Lexicon and guide to r
 
 Term | Definition | Information 
 |:---|:---|:---|
-General Terminology 
+| | **General Terminology** | |
 Size | Bi-axial at 90 for non-nodal<br>SAD for nodes. | |
 Adnexa | Ovaries, fallopian tubes and supporting structures including broad ligament, vessels | |
 Lesion | Not normal physiology on imaging criteria | | 
 Carcinomatosis | Metastatic disease involving peritoneum | | 
 Implant | Lesion on the serosa or surface of an organ. Might invade into the organ | *Deposit* is also allowed. |
 Parenchymal lesion | SOL within solid organs or replacing soft tissue of the organ via haematogeneous spread; not by direct invasion from an implant. | | 
-Adnexal Lesion specific terminology 
+| | **Adnexal Lesion specific terminology** | |  
 Unilateral | One side of body ||
 Bilateral | Affecting both sides | If multiple/bilateral then mention 2 largest masses, preferably the largest on each side. | |
 Adnexal Lesion | Abnormality involving the ovaries, fallopian tubes, broad ligament or the vessels of the adnexa. | Can also use *mass* |
