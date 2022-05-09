@@ -131,7 +131,9 @@ Is divided into:
 - but not yet hydrophobic thus high water and HIGH T2.
 - Thus, T1 shortening is seen about 3 months before decline in T2.  
 
-### Myelination timetable.
+### Myelination timetable.  
+
+Read Normal Myelination Atlas (here)[../papers/Myelination_Paed.pdf]
 
 | | Term | 2 mths | 4 mths | 6 mths | 9 mths | 12mths | 18mths
 |:---|:---|:---|:---|:---|:---|:---|:---
@@ -142,3 +144,4 @@ Is divided into:
 > J/C = Juxtacortical. 
 > Myelination correlates with development of function. 
 > Juxtacortical WM in the frontal lobe is still maturing up to 2yrs on T2 and microstructurally to adolescence.
+"U:\EBR\papers\Myelination_Paed.pdf"
