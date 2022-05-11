@@ -25,4 +25,17 @@ Cystic | Portion of an adnexal lesion that is not fluid | |
 Solid Component | Part of an adnexal lesion which is not fluid. |
 i. *Solid tissue* | A solid component that usually demonstrates enhacement and has the following morphology:<br> - Papillary projection<br> - Mural nodule<br> - Irregular septation.<br>Or, Solid enhancing part of an adnexal lesion. | But not normal ovarian stroma. | 
 ii. *Other solid components* | Includes smooth septations/walls (thin or thick), debris, fat, calcification or clot. | |
-
+| | Peritoneal Carcinomatosis-specific Terminology | | 
+| **Morphology** | | | 
+| Nodule | Round or irregular tissue, 3cm or less in maximum dimension | Can be poorly defined |
+| Mass | Round or irregular tissue, greater than 3cm in maximum dimension | | 
+| Stranding or Infiltration | Hazy appearance of the peritoneal, omental or mesenteric fat | Can be due to inflammation, prior surgery or ascites.<br>*Haziness* is **not** recommended. | 
+| Peritoneal thickening or nodularity | Smooth or nodular / irregular thickening of the peritoneal lining | |
+| Invasion | Growth or direct extension / penetration into surrounding organs or tissues. | Sometimes peritoneal disease may invade an adjacent organ including Liver, spleen, bowel loop or abdominal wall. | 
+| Tethering | Binding or attachment between the bowel and/or organs | Can be due to tumour, adhesions, infection/inflammation involving the peritoneum |
+| **Locations** | | | 
+| i. Peritoneal Cavity | Potential space between the parietal and visceral peritoneum that envelopes the abdominal organs. | Includes peritoneal lining, mesentery and omentum. | 
+| ii. Subdiaphragmatic | Peritoneal cavity along the surface of the diaphragm = RIGHT & LEFT subdiaphragmatic spaces. | **Hard-to-resect / Unresectable Site** 
+| iii Perihepatic | Close approximation to the liver including gastrohepatic ligament, porta hepatis or peri-portal region, RIGHT or part of LEFT subdiaphragmatic space, RIGHT or part of LEFT subhepatic space, lesser sac, falciform ligament, left intersegmental fissure, gallbladder fossa, Morrison's pouch. | Overlaps between subdiaphragmatic, perihepatic and perisplenic terms. NB: always indicate subdiaphragmatic disease if present. | 
+| iv. Perisplenic | Close approximation to the spleen includes part of LEFT subdiaphragmatic and LEFT subhepatic space, gastrosplenic, splenocolic ligament and splenic hilum. | | 
+|
