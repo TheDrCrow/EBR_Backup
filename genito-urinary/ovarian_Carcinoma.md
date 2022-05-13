@@ -35,7 +35,22 @@ ii. *Other solid components* | Includes smooth septations/walls (thin or thick),
 | Tethering | Binding or attachment between the bowel and/or organs | Can be due to tumour, adhesions, infection/inflammation involving the peritoneum |
 | **Locations** | | | 
 | i. Peritoneal Cavity | Potential space between the parietal and visceral peritoneum that envelopes the abdominal organs. | Includes peritoneal lining, mesentery and omentum. | 
-| ii. Subdiaphragmatic | Peritoneal cavity along the surface of the diaphragm = RIGHT & LEFT subdiaphragmatic spaces. | **Hard-to-resect / Unresectable Site** 
+| ii. Subdiaphragmatic | Peritoneal cavity along the surface of the diaphragm = RIGHT & LEFT subdiaphragmatic spaces. | **Hard-to-resect / Irresectable Site** 
 | iii Perihepatic | Close approximation to the liver including gastrohepatic ligament, porta hepatis or peri-portal region, RIGHT or part of LEFT subdiaphragmatic space, RIGHT or part of LEFT subhepatic space, lesser sac, falciform ligament, left intersegmental fissure, gallbladder fossa, Morrison's pouch. | Overlaps between subdiaphragmatic, perihepatic and perisplenic terms. NB: always indicate subdiaphragmatic disease if present. | 
 | iv. Perisplenic | Close approximation to the spleen includes part of LEFT subdiaphragmatic and LEFT subhepatic space, gastrosplenic, splenocolic ligament and splenic hilum. | | 
-|
+| v. Lesser Sac | Peritoneal space posterior to stomach that extends through the Foramen of Winslow | **Hard-to-resect / Unresectable Site** |
+| vi. Omentum | Fat between a double peritoneal layer that extends from stomach and duodenal bulb to adjacent organs | *Greater Omentum* = attaches to stomach and hangs like an apron from transverse colon.<br>*Lesser Omentum* = 2 contiguous components called gastrohepatic and hepatoduodenal ligaments. Attach the stomach and duodenal bulb to the Liver. | 
+| vii. Gastrocolic ligament | Space between anterior stomach and the transverse colon | **Hard-to-resect / Irresectable Site** 
+| viii. Gastrosplenic ligament | Ligament connecting superior 1/3 of greater curvature to the splenic hilum | | 
+| ix. Mesenteric | Double fold of peritoneum attaching the bowel to the posterior abdominal wall. Contains soft tissue and vessels. | **Hard-to-resect / Irresectable Site** <br>Mesenteric involvement indicates tumour deposits in the mesentery. Mesenteric involvement is suspected with mesenteric retraction, nodules or small bowel loop tethering. | 
+| x. Serosal | Visceral peritoneum surrounding bowel or solid organ. 
+| xi. Paracolic gutters/posterior peritoneal lining | Space lateral to the peritoneal reflections to the left and right side of the colon. | RIGHT paracolic gutter communicates freely with RIGHT subdiaphragmatic space whilst the LEFT is partly limited by the splenocolic ligament. BUT, both gutters communicate freely with pelvic spaces and serve as routes of peritoneal disease spread. |  
+| | | |
+| xii. Paravesical | Spaces around the bladder inc: Anterior paravesical, supravesical, vesicouterine spaces, and medial and lateral inguinal fossae. | | |
+| xiii. Pelvic sidewall | Includes muscular sidewall ( = obturator internus, pyriformis or levator muscles) and the iliac vessels and nerves. | **Hard-to-resect / Irresectable Site** <br>Invasion suspected if disease is <3mm from the muscular sidewall or ureteric involvement / hydronephrosis or encasement of the iliac vessels. | 
+| xiv. Pouch of Douglas / cul-de-sac | Retrouterine space between rectum and posterior wall of the uterus. | Is most dependent part of the peritoneum. |
+|  | 4. Lymph node-specific terminology | | 
+| Morphology | | | 
+| *Oval* | Length > Width | Both benign & malignant. | 
+| *Round* | Length ~ Width | Ratio of short to long axis >0.8 means likely to be metastatic for nodes between 8 and 10mm SAD. 
+
