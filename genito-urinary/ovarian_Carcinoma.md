@@ -8,10 +8,10 @@ ESUR, SAR inter alia have published a Ovarian Ca specific Lexicon and guide to r
 
 [^1]: Shinagare A, Sadowski, E. European Radiology (2022) 32:3220–3235 https://doi.org/10.1007/s00330-021-08390-y
 
-Term | Definition | Information 
+| Term | Definition | Information |
 |:---|:---|:---|
 | | **General Terminology** | |
-Size | Bi-axial at 90 for non-nodal<br>SAD for nodes. | |
+| Size | Bi-axial at 90 for non-nodal<br>SAD for nodes. | |
 Adnexa | Ovaries, fallopian tubes and supporting structures including broad ligament, vessels | |
 Lesion | Not normal physiology on imaging criteria | | 
 Carcinomatosis | Metastatic disease involving peritoneum | | 
