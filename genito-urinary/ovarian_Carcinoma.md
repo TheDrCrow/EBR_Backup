@@ -64,3 +64,43 @@ ii. *Other solid components* | Includes smooth septations/walls (thin or thick),
 | ii *Mediastinal* | Centrally from the level of the apex of both lungs to the diaphragm.<br>Including R/L upper and lower paratracheal, prevascular, retrotracheal, aortopulmonary windows, subcarinal, paraoesophageal and pulmonary ligament. RIGHT/LEFT hilar and segmental nodes. | >=1cm SAD or suspicious features. |
 | iii. *Hilar* | Immediately adjacent to mainstem bronchus & hilar vessels, inc. proximal portions of the pulmonary veins and the main pulmonary artery. | >= 1cm SAD or suspicious features. |
 | iv. *Axillary* | Anteriorly bounded by pec.major muscle, medially by serratus anterior & posteriorly by subscapularis & lat.dorsi. | >= 1cm SAD or suspicious.| 
+| v. *Internal Mammary* | Adjacent to junction of ribs + sternum along IMAs | >0.5cm SAD or suspicious |
+| vi. *Supradiaphragmatic or Epiphrenic* | Just above diaphragm including pre and paracardiac or cardiophrenic lymph nodes | >= 0.5cm SAD or suspicious features | 
+| vii. *Retrocrural* | Small triangular area within the most inferior posterior mediastinum and is bordered by diaphragmatic crura | 
+| **Upper Abdominal Nodes** | Above renal arteries. Include gastrohepatic, peripancreatic, celiac axis, portocaval and periportal stations. | **Hard-to-resect / Irresectable** <br>>=1cm SAD or suspicious features. Except Portocaval >= 1.5cm SAD. | 
+| **Abdominal Retroperitoneal** | Deep to the peritoneal lining, surrounding the aorta + below the diaphragm. | >= 0.8cm (!) SAD or suspicious.<br>Nodes below level of aortic bifurcation should be described separately as *Pelvic lymph nodes* |
+| **Mesenteric** | At mesenteric root & throughout mesentery | >=0.8cm or suspicious |
+| **Pelvic retroperitoneal** | Deep to the peritoneal lining below the bifurcation of the aorta. Includes Common Iliac, External Iliac, Internal Iliac nodes. | >=0.8cm SAD or suspicious | 
+| **Inguinal** | Distal to Inguinal ligament<br>Superficial: Within femoral triangle (Inguinal ligmament, Sartorius & Adductor Longus)<br>Deep: Medial to Femoral vasculature. | **Hard-to-resect / Irresectable**<br> >=1.5cm SAD or suspicious.
+| | **5. Metastatic disease other than peritoneal carcinomatosis** | | 
+| **Hepatic parenchyma** | Space-occupying met disease involving the hepatic parenchyma | **Hard-to-resect / Irresectable**<br> This means haematogeneous disease and NOT direct invasive spread by peritoneal implants |
+| **Splenic parenchymal** | Space-occupying metastatic disease involving splenic parenchyma | **Hard-to-resect / Irresectable**<br>As above, this is haematogeneous spread. |
+| **Bowel/Stomach** | Tumour spread to wall of GIT | **Hard-to-resect / Irresectable**<br> Specify which segments |
+| **Pulmonary** | Spread to lungs as nodules, masses or lymphangitis. | **Hard-to-resect / Irresectable** | 
+| **Pleural** | Metastatic disease within the pleural space | **Hard-to-resect / Irresectable** | 
+| **Other Visceral** | Space-occupying disease of other sites inc pancreas, adrenals, kidneys, bones, and brain | **Hard-to-resect / Irresectable**<br>Disease here is rare. |
+| | **6. Fluid-specific Terminology** | | 
+| **Pleural Effusion** | Non-physiologic fluid in pleural space | Malignancy determined by pleural nodularity OR cytological proof. | 
+| **Pleural Effusion volume** | Small/Large *or* small/medium/large | Subjective assessment | 
+| **Ascites** | Non-physiological fluid in peritoneal cavity | Malignancy is determined by peritoneal nodularity, omental cake or nodular peritoneal thickening. OR cytological confirmation. |
+| **Ascites Volume** | Small/large *or* small/medium/large | Subjective assessment | 
+
+### Points made in Lexion  
+
+**Peritoneal Implantation**
+If peritoneal implant has smooth contour with liver => suggests no invasion.  
+But, if ill-defined, irregular or interface obliteration => suggests invasion.  
+
+**Perihepatic implants** along bare area == always look for & mention.  
+Lesser Sac implants or Gastrocolic implants => Not easily seen on laparoscopy and may need more aggressive approach, thus often have neo-adj chemo. 
+Extensive bowel involvement Stage IV ( rather than serosal implants Stage III) should be called as may need pre-op assessment by serum albumin to determine resectability. 
+
+Disease involvement in root of small-bowel mesentery or upper abdominal or suprarenal retroperitoneal lymph node involvement is associated with higher rates of suboptimal cytoreduction. 
+
+**Mesenteric involved nodes vs mesenteric implants** can be difficult to separate. Involved nodes often round, enlarged, heterogeneous and irregular / spiculated. Whilst implants can look similar they are usually accompanied with other peritoneal involvement findings such as ill-defined peritoneal involvement elsewhere, nodulariy, mesenteric root retraction or fluid between mesenteric folds.   
+
+**Pelvic sidewall invasion** call in detail.  
+
+No agreement to include any various peritoneal carcinomatosis. 
+
+
