@@ -6,7 +6,7 @@
 
 ESUR, SAR inter alia have published a Ovarian Ca specific Lexicon and guide to reporting. [^1] 
 
-[^1]: Shinagare A, Sadowski, E. European Radiology (2022) 32:3220–3235 https://doi.org/10.1007/s00330-021-08390-y
+[^1]: Shinagare A, Sadowski, E. European Radiolojgy (2022) 32:3220–3235 https://doi.org/10.1007/s00330-021-08390-y
 
 | Term | Definition | Information |
 |:---|:---|:---|
