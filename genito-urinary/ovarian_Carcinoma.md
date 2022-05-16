@@ -49,8 +49,18 @@ ii. *Other solid components* | Includes smooth septations/walls (thin or thick),
 | xii. Paravesical | Spaces around the bladder inc: Anterior paravesical, supravesical, vesicouterine spaces, and medial and lateral inguinal fossae. | | |
 | xiii. Pelvic sidewall | Includes muscular sidewall ( = obturator internus, pyriformis or levator muscles) and the iliac vessels and nerves. | **Hard-to-resect / Irresectable Site** <br>Invasion suspected if disease is <3mm from the muscular sidewall or ureteric involvement / hydronephrosis or encasement of the iliac vessels. | 
 | xiv. Pouch of Douglas / cul-de-sac | Retrouterine space between rectum and posterior wall of the uterus. | Is most dependent part of the peritoneum. |
-|  | 4. Lymph node-specific terminology | | 
-| Morphology | | | 
+|  | **4. Lymph node-specific terminology** | | 
+| **Morphology** | | | 
 | *Oval* | Length > Width | Both benign & malignant. | 
-| *Round* | Length ~ Width | Ratio of short to long axis >0.8 means likely to be metastatic for nodes between 8 and 10mm SAD. 
-
+| *Round* | Length ~ Width | Ratio of short to long axis >0.8 means likely to be metastatic for nodes between 8 and 10mm SAD. | Both benign & malignant | 
+| *Irregular / Spiculated* | Jagged or saw-tooth-like contour | Mostly metastatic | 
+| *Fatty hilum* | Preservation of central fat and thin rim of nodal tissue | Benign feature | 
+| *Heterogeneous* | Variable attenuation or signal or enhancement | Metastatic feature | 
+| *Necrotic* | Non-enhancing variable CT attenuation or MRI signal parts | Non-specific feature in malignancy & benign like abscess, TB & fungi. <br>"Necrosis" is a path term and uncertain at imaging = can be necrosis, fibrosis or cystic. | 
+| *Calcification* | Calcium deposits in tissue | Relates to tumour sub-type (low-grade or borderline)<br>Also other cancers such as colorectal or bladder cancer as well as granulomatous disease or treated cancer. | 
+| **Location** | | |
+| **Thoracic Lymph Nodes** | | **Hard-to-resect / Irresectable** | 
+| i. *Supraclavicular* | Lower margin of cricoid to the clavicles & in midline to the upper border of the manubrium | >= 0.5cm SAD or suspicious features. | 
+| ii *Mediastinal* | Centrally from the level of the apex of both lungs to the diaphragm.<br>Including R/L upper and lower paratracheal, prevascular, retrotracheal, aortopulmonary windows, subcarinal, paraoesophageal and pulmonary ligament. RIGHT/LEFT hilar and segmental nodes. | >=1cm SAD or suspicious features. |
+| iii. *Hilar* | Immediately adjacent to mainstem bronchus & hilar vessels, inc. proximal portions of the pulmonary veins and the main pulmonary artery. | >= 1cm SAD or suspicious features. |
+| iv. *Axillary* | Anteriorly bounded by pec.major muscle, medially by serratus anterior & posteriorly by subscapularis & lat.dorsi. | >= 1cm SAD or suspicious.| 
