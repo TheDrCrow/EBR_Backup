@@ -21,6 +21,20 @@
 | Haemoptysis   | 1.62            | 1.23–2.15  | 0.279           | 0.983          | 0.948–1.02  | 0.016           |
 | PH VTE        | 1.47            | 1.11–1.96  | <0.001          | 0.940          | 0.895–0.986 | 0.650           |
 
+--- 
+
+## What about LR of the test itself. 
+
+### NPV of CTPA. Meta-Analysis. [VanDerHulle2017]
+
+n= 6148 in 4 prospective studies. PE prevalence of 24%. 
+
+| Type | 3 month VTE | 3 month Fatal PE |
+|:----|:----:|:----:|
+All | 1.2% | 0.1% |
+Wells >4 | 2.0% | 0.5% |
+Wells >6 | 6.3% | null | 
 
 
 [^West2007]: West J, Goodacre S, Sampson F. The value of clinical features in the diagnosis of acute pulmonary embolism: systematic review and meta-analysis. QJM. 2007;100(12):763-769. doi:10.1093/qjmed/hcm113
+[^VanDerHulle2017]: Van der Hulle T, van Es N, den Exter P et al. Is normal CTPA safer to rule out acute PE in patients with a likely clinical probability. Thromb Haemost 2017; 117(08):1622-1629. DOI: 10.1160/TH17-02-0076
