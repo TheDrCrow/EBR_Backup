@@ -2,32 +2,32 @@
 
 # Paediatric Urology.
 ## The guidelines for the usual presentations.   
-- [Paediatric Urology.](#paediatric-urology)
-	- [The guidelines for the usual presentations.](#the-guidelines-for-the-usual-presentations)
-		- [The 2022 EAU Guidelines are available here](#the-2022-eau-guidelines-are-available-here)
-		- [Cryptorchidism [^Uroweb2021]](#cryptorchidism-uroweb2021)
-			- [Classification & Phrases](#classification--phrases)
-			- [Investigation.](#investigation)
-			- [Managment.](#managment)
-		- [Testicular Microlithiasis.](#testicular-microlithiasis)
-			- [Diagnosis](#diagnosis)
-			- [Management](#management)
-		- [Scrotal Swelling / Hydrocele / Hernia. [^Uroweb2021]](#scrotal-swelling--hydrocele--hernia-uroweb2021)
-			- [Diagnosis.](#diagnosis-1)
-			- [Treatment.](#treatment)
-		- [Varicocele in Children](#varicocele-in-children)
-			- [Imaging](#imaging)
-		- [Antenatal Hydronephrosis. [^UTD2014]](#antenatal-hydronephrosis-utd2014)
-			- [Postnatal.](#postnatal)
-				- [Management.](#management-1)
-		- [UTI *NICE* [^NICE2018]](#uti-nice-nice2018)
-				- [Atypical UTI](#atypical-uti)
-				- [Recurrent UTI](#recurrent-uti)
-			- [Infants < 6 months old](#infants--6-months-old)
-			- [Infants and Children 6 Months to 3 years old.](#infants-and-children-6-months-to-3-years-old)
-			- [Children > 3years old.](#children--3years-old)
-			- [Also in the Guidance.](#also-in-the-guidance)
-		- [Vesicoureteric Reflux.](#vesicoureteric-reflux)
+1. [Paediatric Urology.](#paediatric-urology)
+	1. [The guidelines for the usual presentations.](#the-guidelines-for-the-usual-presentations)
+		1. [The 2022 EAU Guidelines are available here](#the-2022-eau-guidelines-are-available-here)
+		2. [Cryptorchidism [^Uroweb2021]](#cryptorchidism-uroweb2021)
+			1. [Classification & Phrases](#classification--phrases)
+			2. [Investigation.](#investigation)
+			3. [Managment.](#managment)
+		3. [Testicular Microlithiasis.](#testicular-microlithiasis)
+			1. [Diagnosis](#diagnosis)
+			2. [Management](#management)
+		4. [Scrotal Swelling / Hydrocele / Hernia. [^Uroweb2021]](#scrotal-swelling--hydrocele--hernia-uroweb2021)
+			1. [Diagnosis.](#diagnosis-1)
+			2. [Treatment.](#treatment)
+		5. [Varicocele in Children](#varicocele-in-children)
+			1. [Imaging](#imaging)
+		6. [Antenatal Hydronephrosis. [^UTD2014]](#antenatal-hydronephrosis-utd2014)
+			1. [Postnatal.](#postnatal)
+				1. [Management.](#management-1)
+		7. [UTI *NICE* [^NICE2018] [^NICE2022]](#uti-nice-nice2018-nice2022)
+				1. [Atypical UTI](#atypical-uti)
+				2. [Recurrent UTI](#recurrent-uti)
+			1. [Infants < 6 months old](#infants--6-months-old)
+			2. [Infants and Children 6 Months to 3 years old.](#infants-and-children-6-months-to-3-years-old)
+			3. [Children > 3years old.](#children--3years-old)
+			4. [Also in the Guidance.](#also-in-the-guidance)
+		8. [Vesicoureteric Reflux.](#vesicoureteric-reflux)
 
 
 
@@ -156,7 +156,7 @@ Defined both 'A' = antenatal findings and management *and*
 
 --- 
 
-### UTI *NICE* [^NICE2018]
+### UTI *NICE* [^NICE2018] [^NICE2022]
 
 ##### Atypical UTI 
 - Seriously ill. 
@@ -214,13 +214,13 @@ In all of the above, a child with a non E.coli infection but no other atypical f
 
 #### Also in the Guidance.
 
-1.5.1.6 Infants and children with a minor, unilateral renal parenchymal defect do not need long-term follow-up unless they have recurrent UTI or family history or lifestyle risk factors for hypertension. [2007]
+1.5.1.7 Infants and children with a minor, unilateral renal parenchymal defect do not need long-term follow-up unless they have recurrent UTI or family history or lifestyle risk factors for hypertension. [2007]
 
-1.5.1.7 Infants and children who have bilateral renal abnormalities, impaired kidney function, raised blood pressure and/or proteinuria should receive monitoring and appropriate management by a paediatric nephrologist to slow the progression of chronic kidney disease. [2007]
+1.5.1.8 Infants and children who have bilateral renal abnormalities, impaired kidney function, raised blood pressure and/or proteinuria should receive monitoring and appropriate management by a paediatric nephrologist to slow the progression of chronic kidney disease. [2007]
 
-1.5.1.8 Infants and children who are asymptomatic following an episode of UTI should not routinely have their urine re-tested for infection. [2007]
+1.5.1.9 Infants and children who are asymptomatic following an episode of UTI should not routinely have their urine re-tested for infection. [2007]
 
-1.5.1.9 Asymptomatic bacteriuria is not an indication for follow-up. [2007]
+1.5.1.10 Asymptomatic bacteriuria is not an indication for follow-up. [2007]
 
 ---
 
@@ -232,3 +232,4 @@ In all of the above, a child with a non E.coli infection but no other atypical f
 [^UTD2014]: Nguyen HT et al, Multidisciplinary consensus on the classification of prenatal and postnatal urinary tract dilation (UTD classification system). J Ped Uro 10 (2014), 982-999. In papers. 
 [^iREFER2021]: https://www.irefer.org.uk/guidelines 
 [^NICE2018]: https://www.nice.org.uk/guidance/cg54
+[^NICE2022]: https://www.nice.org.uk/guidance/ng224
