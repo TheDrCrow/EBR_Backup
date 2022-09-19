@@ -89,7 +89,35 @@ They state:
 
 But then state that it includes ISHAK measure of fibrosis despite not having any validation in paeds and is reported as a 'standardised manner'. 
 
+#### And Other tests are just as useless. Lots of continued interest in US. [^4] 
+
+Several study groups but 'keen' and use case-control design in kids with advanced CF to demonstrate correlations between crude findings and other crude findings. [^3] *Essentially*  
+
+As fewer die from nutritional/pancreatic and lung failure then role of CFLD becomes more prominent with 30-50% of patients with it and 8% dying from it.
+
+Range of hepatic disorders seen in CF include: Liver fibrosis and cirrhosis. But also cholestasis, fatty infiltration as well as biliary tree abnormalities including - sclerosing cholangitis, cholelithiasis, micro-gallbladder and gallbladder dyskinesia.  
+
+Most are asymptomatic thus idea is that we should spot it before they die of portal hypertension related complications. Are treated with transplantation.
+
+The changes of fibrosis & cirrhosis are patchy and only occasionally multilobular so random biopsy or other tests are not so great. 
+	- LFTs are ok but underexpression of a CFTR protein means the ALT and AST are worse then expected at predicting abnormality but still correlated.
+	- GGT is better. And for both, absolute values count 
+	- All biochemical measures of fibrosis are probably ok. 
+	- TE, ARFI etc is good but problem with patchy distribution and a sign of advanced disease and increasingly is used as the reference instead of biopsy.  
+
+Most of the 2017-2021 US CFLD papers show that 'Nodular' liver ( vs 'Echogenic*' or 'Normal') is associated with raised ALT/AST/GGT, signs of fibrosis and TE/ARFI etc. But none are very 
+
+* Echogenic means diffuse parenchymal echogenicity as well as periportal hyperattenuation. 
+
 
 [^1]: https://www.nice.org.uk/guidance/ng78/chapter/Recommendations#annual-and-routine-reviews
 
 [^2]: https://www.rbht.nhs.uk/sites/nhs/files/Cystic%20fibrosis%20guidelines/CF%20G%202020/7.pdf
+
+[^3]: New Algorithm for the Integration of US into Cystic Fibrosis Liver Disease Screening. Sellers ZM, Lee LW, Barth RA et al. Journal of Pediatric Gastroenterology and Nutrition 69(4):404-410 Oct 2019. 
+
+[^4]: Non-invasive Diagnostic Tests in Cystic Fibrosis-Related Liver Disease: A Diagnostic Test Accuracy Network Meta-Analysis. Martonosi ÁR, Soós A, Rumbus Z et al. Front. Med. 8:598382. doi: 10.3389/fmed.2021.598382
+
+
+
+
