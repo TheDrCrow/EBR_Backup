@@ -1,5 +1,5 @@
 # Cystic Fibrosis 
-1. [Cystic Fibrosis](#cystic-fibrosis)
+. [Cystic Fibrosis](#cystic-fibrosis)
 	1. [Guidelines = NICE NG78 2017 [^1]](#guidelines--nice-ng78-2017-1)
 		1. [1.5 Annual and routine reviews](#15-annual-and-routine-reviews)
 		2. [1.7 Other monitoring, assessment and management.](#17-other-monitoring-assessment-and-management)
@@ -100,14 +100,66 @@ Range of hepatic disorders seen in CF include: Liver fibrosis and cirrhosis. But
 Most are asymptomatic thus idea is that we should spot it before they die of portal hypertension related complications. Are treated with transplantation.
 
 The changes of fibrosis & cirrhosis are patchy and only occasionally multilobular so random biopsy or other tests are not so great. 
-	- LFTs are ok but underexpression of a CFTR protein means the ALT and AST are worse then expected at predicting abnormality but still correlated.
-	- GGT is better. And for both, absolute values count 
-	- All biochemical measures of fibrosis are probably ok. 
-	- TE, ARFI etc is good but problem with patchy distribution and a sign of advanced disease and increasingly is used as the reference instead of biopsy.  
+- LFTs are ok but underexpression of a CFTR protein means the ALT and AST are worse then expected at predicting abnormality but still correlated.
+- GGT is better. And for both, absolute values count 
+- All biochemical measures of fibrosis are probably ok. 
+- TE, ARFI etc is good but problem with patchy distribution and a sign of advanced disease and increasingly is used as the reference instead of biopsy.  
 
 Most of the 2017-2021 US CFLD papers show that 'Nodular' liver ( vs 'Echogenic*' or 'Normal') is associated with raised ALT/AST/GGT, signs of fibrosis and TE/ARFI etc. But none are very 
 
-* Echogenic means diffuse parenchymal echogenicity as well as periportal hyperattenuation. 
+* Echogenic means diffuse parenchymal echogenicity as well as periportal hyperattenuation.
+
+But, Tabori et al [^5] looked at wide range of findings on Abd US and correlated with clinical symptoms. Found good correlation with abdominal symptomatology including reflux and pain and features in keeping with pancreatic insufficiency and US features of CF. 
+
+### How to Report it in a Reasonably structured way. 
+
+Based on Jena Hospital CF clinic work [^5]  
+Used 17 parameters below and gave 1 point for presence (= US-17)
+
+| ITEM | DEFINITION ON US | NOTES |
+:---|:---|:---|
+||**LIVER** | |  
+Hepatomegaly | Mid-clavicular line CC dimension | Adults: >16cm is enlarged.  |   
+Liver Steatosis | Increased echogenicity compared to renal parenchyma et al. | | 
+Parenchymal Coarseness |  |  | 
+Nodular Border | | | 
+Periportal Fibrosis |  | Refers to Willams' work in CXH |  
+*TE* | Abnormal > 7.1kPa |  |
+||**PORTAL HYPERTENSION** | | 
+PV Flow | Abnormal <15cm/s  | |  
+Splenomegaly | Max CC through Hilum | But not much data on this measure in US. ?use long-axis vs 1.25 x BPL of LK. See below.|  
+Ascites | | |   
+||**BILIARY TREE**|| 
+Cholecystolithiasis | Gallstones in gallbladder | | 
+Micro-gallbladder | <2-3cm long or >0.5-1.5cm wide | |
+||**PANCREAS**||
+Lipomatosis | Echogenicity partly or completely higher than liver or kidney| | 
+Cystosis | >1cm simple cysts in pancreas| Usually the last stage of pancreatic insufficiency | 
+||**BOWEL**|| 
+Bowel Wall thickness | Mucosa -> Outer hyperechoic wall >4mm | | 
+Appendix Thickening | Diameter > 6mm | | 
+Enlarged Mesenteric Nodes | >5mm SAD or >10mm LAD | | 
+Intussusception | | |
+
+--- 
+
+### Spleen Size 
+
+Via Radiopaedia. = Normal Splenic size in Infants & Children.Rosenberg HK AJR 1991;157(1):119-121
+
+*AGE* | *UPPER LIMIT OF NORMAL*
+:---|:---
+3 months | 6.0cm
+6 months | 6.5cm 
+12 months | 7.0cm 
+2 years | 8.0cm 
+4 years | 9.0cm 
+6 years | 9.5cm 
+8 years | 10.0cm 
+10 years | 11.0cm 
+12 years | 11.5cm 
+15 years+ | 12.0cm Girls. 13.0cm  
+
 
 
 [^1]: https://www.nice.org.uk/guidance/ng78/chapter/Recommendations#annual-and-routine-reviews
@@ -118,6 +170,6 @@ Most of the 2017-2021 US CFLD papers show that 'Nodular' liver ( vs 'Echogenic*'
 
 [^4]: Non-invasive Diagnostic Tests in Cystic Fibrosis-Related Liver Disease: A Diagnostic Test Accuracy Network Meta-Analysis. Martonosi ÁR, Soós A, Rumbus Z et al. Front. Med. 8:598382. doi: 10.3389/fmed.2021.598382
 
-
+[^5]: Relation of Ultrasound Findings and abdominal symptoms obtained with the CFAbd-Score in Cystic Fibrosis Patients. Tabori H, Jaudszus A, Arnold C et al. SCIENTIFIC REPORTS | 7: 17465 | DOI:10.1038/s41598-017-17302-4
 
 
