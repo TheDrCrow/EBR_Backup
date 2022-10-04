@@ -111,6 +111,10 @@ Most of the 2017-2021 US CFLD papers show that 'Nodular' liver ( vs 'Echogenic*'
 
 But, Tabori et al [^5] looked at wide range of findings on Abd US and correlated with clinical symptoms. Found good correlation with abdominal symptomatology including reflux and pain and features in keeping with pancreatic insufficiency and US features of CF. 
 
+---
+
+## Report.
+
 ### How to Report it in a Reasonably structured way. 
 
 Based on Jena Hospital CF clinic work [^5]  
@@ -143,6 +147,31 @@ Intussusception | | |
 
 --- 
 
+### Liver Size 
+
+Via *Diagnostic Pediatric Ultrasound* Beek A & van Rijn RR. = Normal Liver, spleen, kidney dimensions in neonates, infants & children. Konus OL, Ozdeimer A, Akkaya A et al. AJR 1998; 171(6):1693-1698.  
+
+NB: Each of the categories is based on 16 to 53 samples only. Done in Turkey.
+
+**Technique**: Longitudinal dimension of the RIGHT lobe taken Mid-clavicular line.
+Measured the orthogonal z-axis if top level was the highest point of the diaphragm and the lowest level was that of the tip.
+
+![Liver Measurement](images/Liver_measurement.PNG)
+
+*AGE* | *LIMITs OF NORMAL*
+:---|:---
+3 months | 4.0 - 9.0cm
+6 months | 4.5 - 9.5cm 
+9 months | 6.0 - 10.0cm
+1 - 2.5 years | 6.5 - 10.5cm 
+3-5 years | 6.5 - 11.5cm 
+5-7 years | 7.0 - 12.5cm 
+7-9 years | 7.5 - 13.0cm 
+9-11 years | 7.5 - 13.5cm 
+11-13 years | 8.5 - 14.0cm 
+13-15 years | 8.5 - 14.0cm 
+15-17 years | 9.5 - 14.5cm.  
+
 ### Spleen Size 
 
 Via Radiopaedia. = Normal Splenic size in Infants & Children.Rosenberg HK AJR 1991;157(1):119-121
@@ -158,13 +187,14 @@ Via Radiopaedia. = Normal Splenic size in Infants & Children.Rosenberg HK AJR 19
 8 years | 10.0cm 
 10 years | 11.0cm 
 12 years | 11.5cm 
-15 years+ | 12.0cm Girls. 13.0cm  
+15 years+ | 12.0cm Girls. 13.0cm Boys 
+
+--- 
 
 
+[^1]: NICE https://www.nice.org.uk/guidance/ng78/chapter/Recommendations#annual-and-routine-reviews
 
-[^1]: https://www.nice.org.uk/guidance/ng78/chapter/Recommendations#annual-and-routine-reviews
-
-[^2]: https://www.rbht.nhs.uk/sites/nhs/files/Cystic%20fibrosis%20guidelines/CF%20G%202020/7.pdf
+[^2]: RBHT https://www.rbht.nhs.uk/sites/nhs/files/Cystic%20fibrosis%20guidelines/CF%20G%202020/7.pdf
 
 [^3]: New Algorithm for the Integration of US into Cystic Fibrosis Liver Disease Screening. Sellers ZM, Lee LW, Barth RA et al. Journal of Pediatric Gastroenterology and Nutrition 69(4):404-410 Oct 2019. 
 
