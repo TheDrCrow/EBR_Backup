@@ -145,6 +145,15 @@ Appendix Thickening | Diameter > 6mm | |
 Enlarged Mesenteric Nodes | >5mm SAD or >10mm LAD | | 
 Intussusception | | |
 
+
+### Findings on US 
+
+50% of px >18yo 
+93% Had Pancreatic Exocrine Insufficiency 
+
+![US Findings](../paed/images/CF_US_findings.png)
+
+
 --- 
 
 ### Liver Size 
