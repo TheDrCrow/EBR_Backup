@@ -2,8 +2,11 @@
 
 ### For Magpie & EBR
 
-1. CF liver US scanning ( NICE vs other )
-	- include template report & scoring system
+1. IBD/Crohn Template
+1. Muscle/tendon injury
+2. Rebuild Knee MR with dd. 
+3. Shoudler Degn MR
+4. Pancreatic mass CT/MR
 
 ---
 
@@ -11,12 +14,14 @@
 
 1. IBD/Crohn CT template 
 2. TMJ Template
-3. 
+3. @m for bone tumours with DD. 
 
 ---
 
 ### For EBR only. 
 
+1. Prior Distribution Malignancy at age.
+		With LOW. With LoA. With Cough. 
 
 ---
 
