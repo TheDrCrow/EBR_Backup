@@ -15,13 +15,15 @@
 1. IBD/Crohn CT template 
 2. TMJ Template
 3. @m for bone tumours with DD. 
-
+4. llSPINE_Fracture for TLICS 4.
+5. Add tla for Lung disease & improve DDs
 ---
 
 ### For EBR only. 
 
 1. Prior Distribution Malignancy at age.
 		With LOW. With LoA. With Cough. 
+2. Diplopia. 
 
 ---
 
