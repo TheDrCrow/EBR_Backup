@@ -2,6 +2,7 @@
 
 ### For Magpie & EBR
 
+1. SPAR
 1. FESS
 1. IBD/Crohn Template
 1. Muscle/tendon injury
@@ -18,6 +19,7 @@
 3. @m for bone tumours with DD. 
 4. llSPINE_Fracture for TLICS 4.
 5. Add tla for Lung disease & improve DDs
+6. MAICA for adult and pasds.
 ---
 
 ### For EBR only. 
