@@ -6,7 +6,7 @@ More of a personal knowledge archive for snippets of stuff I read, forget and th
 --- 
 
 ### General 
-[Nightsweats](general/general_nightsweats.md)
+[Nightsweats](general/general_nightsweats.md)  
 [Confusion](general/general_confusion_ix.md)
 
 ### Neurology
@@ -17,14 +17,14 @@ More of a personal knowledge archive for snippets of stuff I read, forget and th
 
 ### Head & Neck
 [FESS](head&neck/h&n_FESS_FF.md)   
-[Head & Neck Staging](head_neck/h&n_Oral_Pharynx_Staging.md)
-[Sinonasal Staging](head_neck/h&n_Nasal_Sinus_Staging.md)
-[Thyroid Staging](head_neck/thyroid_cancer.md)
+[Head & Neck Staging](head_neck/h&n_Oral_Pharynx_Staging.md)  
+[Sinonasal Staging](head_neck/h&n_Nasal_Sinus_Staging.md)  
+[Thyroid Staging](head_neck/thyroid_cancer.md)  
 
 ### Chest & Vascular  
-[ILD in CTD](chest/chest_ILD_CTD.md) || [Lung Filter](chest/chest_Lung_Filter.md) || [Lung Nodules](chest/chest_lungNodules.md) 
-[Pleural Effusions](chest/pleural_effusion.md)
-[PE Clinical LRs](chest/chest_PE_clinicalLRs^.md)  
+[ILD in CTD](chest/chest_ILD_CTD.md) || [Lung Filter](chest/chest_Lung_Filter.md) || [Lung Nodules](chest/chest_lungNodules.md)  
+[Pleural Effusions](chest/pleural_effusion.md)  
+[PE Clinical LRs](chest/chest_PE_clinicalLRs^.md)    
 [Peripheral Angio](chest/chest_peripheralAngio_FF.md)  
 
 ### Abdominal & GIT  
@@ -34,14 +34,14 @@ More of a personal knowledge archive for snippets of stuff I read, forget and th
 
 ### Genito-urinary  
 [CTU & KUB](genito-urinary/uro_CTU&KUB_FF.md) || [Prostate Ca](genito-urinary/uro_prostateCa_fu.md)  
-[Ectopic Pregnancy](genito-urinary/gynae_ectopicPreg.md)
+[Ectopic Pregnancy](genito-urinary/gynae_ectopicPreg.md)  
 [Ovary & Ovarian Ca](genito-urinary/ovarian_Carcinoma.md)
 
 ### MSK  
 [Radial Neck Fracure](msk/msk_fracture_radialneck.md)  
 [Knee Trauma](msk/msk_knee_ff.md)  
 [Spine Degeneration](msk/msk_spinedegen_FF.md)  
-[Spine Stenosis](msk/Spinal%20Stenosis%20Assessment.pdf)
+[Spine Stenosis](msk/Spinal%20Stenosis%20Assessment.pdf)  
 [Cauda Equina Syndrome](msk/ces.md)  
 
 ### Oncology 
@@ -52,7 +52,7 @@ More of a personal knowledge archive for snippets of stuff I read, forget and th
 [Rectal MR](onco/onco_rectalMR_FF.md)  
 
 ### Paediatrics 
-[Neck Lumps](paed_neuro/paed_neck_lumps.md)
+[Neck Lumps](paed_neuro/paed_neck_lumps.md)  
 [Cystic Fibrosis](paed/cystic_fibrosis.md)  
 [Precocious Puberty](paed/paed_endo_precociousPuberty.md)  
 [Gynaecology](paed/paed_gynae_FF.md)  
@@ -64,7 +64,7 @@ More of a personal knowledge archive for snippets of stuff I read, forget and th
 [Developmental Issues](paed_neuro/neuro_paed_development.md)  
 [Supratentorial Malformations](paed_neuro/supratentorial_malformations.md)   
 [Epilepsy](paed_neuro/neuro_paed_epilepsy.md)  
-[Brain Tumours](paed_neuro/neuro_paed_brain_tumours.md) 
-[Pituitary & Pineal](paed_neuro/neuro_paed_Pit_Pineal.md)
-[Neurofibromatosis & Other Phakomatoses](paed_neuro/neurofibromatosis.md)
+[Brain Tumours](paed_neuro/neuro_paed_brain_tumours.md)  
+[Pituitary & Pineal](paed_neuro/neuro_paed_Pit_Pineal.md)  
+[Neurofibromatosis & Other Phakomatoses](paed_neuro/neurofibromatosis.md)  
 [Scoliosis](paed_neuro/Scoliosis.docx)
