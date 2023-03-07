@@ -21,12 +21,12 @@
 
 ## General 
 
-![Basic Anatomic Division](/home/nim/Documents/EBR/head_neck/images/facial_butress.png)
+![Basic Anatomic Division](images/facial_butress.png)
 
 ## Mandible
 
-![Mandible Sites](/home/nim/Documents/EBR/head_neck/images/mandible_sites.png)
+![Mandible Sites](images/mandible_sites.png)
 
-![Mandible Sites](/home/nim/Documents/EBR/head_neck/images/mandible_subsites.png)
+![Mandible Sites](images/mandible_subsites.png)
 
-![Mandible Sites](/home/nim/Documents/EBR/head_neck/images/mandible_subsites_frontal.png)
+![Mandible Sites](images/mandible_subsites_frontal.png)
