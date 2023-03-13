@@ -226,9 +226,110 @@ In all of the above, a child with a non E.coli infection but no other atypical f
 
 ### Vesicoureteric Reflux. 
 
-![American Society of Nephrology Grade](/EBR/paed/images/VUR_grades_ASN.jpg "Some Am Soc Nephro image")
+![American Society of Nephrology Grade](images/VUR_grades_ASN.jpg "Some Am Soc Nephro image")
 
+--- 
+
+### Lower Urinary Tract Symptoms [^Dynamed2022] [^PIER2021] [^NICE2010] [^Fuentes2019]
+
+#### __**Definitions**__ ( International Children's Continence Society (ICCS) Document )
+
+*Inter alia*
+
+**Dysfunctional Voiding**: Habitual contraction of urethral sphincter and/or pelvic floor muscles during voiding leading to interrupted urinary flow and prolonged voiding time   
+**Giggle Incontinence**: Involuntary complete bladder emptying during laughing with otherwise normal bladder and bowel function. Not the same as *dampness on laughing* which can be a manifestation of OAB  
+**Hesitancy**: Difficulty in initiating voiding when child is ready to void.  
+**Intermittent Incontinence**: Intermittent leakage of urine in discrete portions.  
+**Incomplete Bladder Emptying**: Post void residual volume of > 5-20mls immediately after voiding  
+**Increased Daytime urinary frequency**: >= 8 voids a day. 
+**Overactive Bladder (OAB)**: Urinary urgency, usually with frequency and nocturia with or without Incontinence, in the absence of UTI or other obvious pathology.  
+**Post micturition dribble**: Involuntary leakage of urine immediately after voiding has finished. 
+**Post void residual**: Urine left in bladder immediately after voiding.
+**Stress Incontinence**: Involuntary leakage of small amounts of urine with effort or physical exertion that increases intra-abdominal pressure such as coughing or sneezing.  
+**Underactive Bladder**: Child needs to strain to raise intra-abdominal pressure to initiate, maintain or complete voiding. Associated with a low voiding frequency, overflow incontinence, a large post-void residual is common.  
+**Urinary Urgency**: Sudden, unexpected, immediate and compelling desire to void. 
+**Urethral-vaginal reflux**: Urinary stream directed towards vagina. Caused by poor toilet posture and compression of the thighs or entrapment of urine by fused labia.
+**Voiding Frequency** Number of voids per day.  
+**Voiding postponement**: Child habitually delays voiding as long as possible and consequently wets due to an uninhibited bladder contraction due to overfilled bladder. Often present with low voiding frequency <4 voids per day.
+
+
+Range of Diagnoses Used include: 
+ - Bladder & Bowel Dysfunction
+ - Overactive bladder
+ - Dysfunctional Voiding 
+ - EDOUF (Extraordinary Daytime Only Urinary Frequency)
+ - Giggle Incontinence 
+ - Vaginal Reflux 
+ - Stress Incontinence 
+ - Voiding Postponement 
+ - Underactive Bladder 
+ - Bladder Outlet Obstruction (BOO) or Bladder Neck Dysfunction 
+
+But, mostly they blend together. 
+
+#### __**Guidance**__
+
+**PIER Guidelines: Childhood Daytime Urinary Incontinence** [^PIER2021]
+> "Ultrasound is not routinely required at initial assessment but is indicated if:
+>  - Continuous Incontinence.
+>  - Recurrent UTIs.
+>  - Initial behaviour management is failing"
+
+Suggest a stepwise approach to assess and treat before more invasive investigations.
+Do pre and post void scans  
+
+> "At 5y old should have a bladder capacity of about 180mls and void between 4-7 times per day with intervals of no less than 2 hours.  
+> Children who void >= 8 times a day have urinary frequency.  
+> Children who void <= 3 times a day have decreased daytime urinary frequency.  
+> Normal bladder capacity can be estimated in the child over the age of two and prior to adolescence by using : Capacity = (age + 1) * 30mls."
+
+DUI is common. Approx 7-10% of children aged 5-13, but organic causes are rare.
+50% of patients with DUI will have symptoms of constipation. Some are entirely caused by it 
+
+**DynaMed: Daytime Voiding Disorders in Children - Non-neurogenic** [^Dynamed2022]
+
+Again suggests stepwise approach with increasing intervention.  
+
+In 'Evaluation' it suggests:
+> "Consider imaging studies such as renal-bladder ultrasound, plain X ray of KUB and voiding cystourethrography in some circumstances". 
+
+Later states: 
+> "Renal bladder ultrasound is typically reserved for children unresponsive to urotherapy unless there is a history of UTI. Consider a lower threshold to perform in male patients due to greater potential for obstructive uropathy or urethral valves."
+
+Expected Bladder capacity (EBC) in children >12ys = 390ml.  
+Normal Daytime voided volume = 65-150% of EBC. So, low maximum voided volume is <65% of EBC and high is >150% but both exclude the first morning void. 
+
+To do bladder measurements on US then bladder volume must be 50-115% of EBC pre-micturition.[^Fuentes2019]
+
+**NICE 2010: Bedwetting in Under 19** [^NICE2010]
+
+Does not mention US. 
+
+**EAU Paediatric Urology: 3.10 Day-time lower urinary tract conditions** [^Uroweb2022]
+
+Splits them into 
+a) Filling-phase (Storage) dysfunctions  
+- Detrusor can be over (OAB) or underactive (UAB). Over is more common.
+- Over leads to urgency, frequency & urgency incontinence. 
+- Recurrent UTIs common due to voiding postponement or high pressure in the bladder causing VUR. Often associated with constipation. 
+- Under tend to have post-void residuals. 
+
+b) Voiding-phase (Emptying) dysfunctions
+- Incomplete relaxation or contraction of the sphincteric mechanism and pelvic floor muscles 
+- lead to staccato voiding pattern ( continuous urine flow with periodic reductions in flow rate ) or interrupted voiding pattern (unsustained detrusor contractions resulting int infrequent and incomplete voiding with micturitions in fractions ). General title is dysfunctional voiding. 
+- Associated with increased bladder pressure and PVR. 
+
+Does not make recommendation in the end points of the recommendation but in diagnostic evaluation it states: 
+> "The upper urinary tract needs evaluating in children with recurrent infections and dysfunctional voiding".
+
+--- 
+
+[^Fuentes2019]: Fuentes M, Magalhães J, Barroso U Jr. Diagnosis and Management of Bladder Dysfunction in Neurologically Normal Children. Front Pediatr. 2019 Jul 25;7:298. doi: 10.3389/fped.2019.00298. PMID: 31404146; PMCID: PMC6673647.
+[^Dynamed2022]: https://www.dynamed.com/condition/daytime-voiding-disorders-in-children-non-neurogenic 
+[^PIER2021]: Assessment of Childhood Daytime Urinary Incontinence. https://www.piernetwork.org/daytime-incontinence.html
+[^NICE2010]: https://www.nice.org.uk/guidance/cg111 "Bedwetting in under 19s"
 [^Uroweb2021]: https://uroweb.org/guideline/paediatric-urology/
+[^Uroweb2022]: https://uroweb.org/guideline/paediatric-urology/
 [^UTD2014]: Nguyen HT et al, Multidisciplinary consensus on the classification of prenatal and postnatal urinary tract dilation (UTD classification system). J Ped Uro 10 (2014), 982-999. In papers. 
 [^iREFER2021]: https://www.irefer.org.uk/guidelines 
 [^NICE2018]: https://www.nice.org.uk/guidance/cg54
