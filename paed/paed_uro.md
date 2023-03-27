@@ -5,29 +5,32 @@
 1. [Paediatric Urology.](#paediatric-urology)
 	1. [The guidelines for the usual presentations.](#the-guidelines-for-the-usual-presentations)
 		1. [The 2022 EAU Guidelines are available here](#the-2022-eau-guidelines-are-available-here)
-		2. [Cryptorchidism [^Uroweb2021]](#cryptorchidism-uroweb2021)
-			1. [Classification & Phrases](#classification--phrases)
+		2. [Cryptorchidism \[^Uroweb2021\]](#cryptorchidism-uroweb2021)
+			1. [Classification \& Phrases](#classification--phrases)
 			2. [Investigation.](#investigation)
 			3. [Managment.](#managment)
 		3. [Testicular Microlithiasis.](#testicular-microlithiasis)
 			1. [Diagnosis](#diagnosis)
 			2. [Management](#management)
-		4. [Scrotal Swelling / Hydrocele / Hernia. [^Uroweb2021]](#scrotal-swelling--hydrocele--hernia-uroweb2021)
+		4. [Scrotal Swelling / Hydrocele / Hernia. \[^Uroweb2021\]](#scrotal-swelling--hydrocele--hernia-uroweb2021)
 			1. [Diagnosis.](#diagnosis-1)
 			2. [Treatment.](#treatment)
 		5. [Varicocele in Children](#varicocele-in-children)
 			1. [Imaging](#imaging)
-		6. [Antenatal Hydronephrosis. [^UTD2014]](#antenatal-hydronephrosis-utd2014)
+		6. [Antenatal Hydronephrosis. \[^UTD2014\]](#antenatal-hydronephrosis-utd2014)
 			1. [Postnatal.](#postnatal)
 				1. [Management.](#management-1)
-		7. [UTI *NICE* [^NICE2018] [^NICE2022]](#uti-nice-nice2018-nice2022)
+		7. [UTI *NICE* \[^NICE2018\] \[^NICE2022\]](#uti-nice-nice2018-nice2022)
 				1. [Atypical UTI](#atypical-uti)
 				2. [Recurrent UTI](#recurrent-uti)
-			1. [Infants < 6 months old](#infants--6-months-old)
+			1. [Infants \< 6 months old](#infants--6-months-old)
 			2. [Infants and Children 6 Months to 3 years old.](#infants-and-children-6-months-to-3-years-old)
-			3. [Children > 3years old.](#children--3years-old)
+			3. [Children \> 3years old.](#children--3years-old)
 			4. [Also in the Guidance.](#also-in-the-guidance)
 		8. [Vesicoureteric Reflux.](#vesicoureteric-reflux)
+		9. [Lower Urinary Tract Symptoms \[^Dynamed2022\] \[^PIER2021\] \[^NICE2010\] \[^Fuentes2019\]](#lower-urinary-tract-symptoms-dynamed2022-pier2021-nice2010-fuentes2019)
+			1. [__**Definitions**__ ( International Children's Continence Society (ICCS) Document )](#definitions--international-childrens-continence-society-iccs-document-)
+			2. [__**Guidance**__](#guidance)
 
 
 
@@ -241,14 +244,14 @@ In all of the above, a child with a non E.coli infection but no other atypical f
 **Hesitancy**: Difficulty in initiating voiding when child is ready to void.  
 **Intermittent Incontinence**: Intermittent leakage of urine in discrete portions.  
 **Incomplete Bladder Emptying**: Post void residual volume of > 5-20mls immediately after voiding  
-**Increased Daytime urinary frequency**: >= 8 voids a day. 
+**Increased Daytime urinary frequency**: >= 8 voids a day.   
 **Overactive Bladder (OAB)**: Urinary urgency, usually with frequency and nocturia with or without Incontinence, in the absence of UTI or other obvious pathology.  
-**Post micturition dribble**: Involuntary leakage of urine immediately after voiding has finished. 
-**Post void residual**: Urine left in bladder immediately after voiding.
+**Post micturition dribble**: Involuntary leakage of urine immediately after voiding has finished.  
+**Post void residual**: Urine left in bladder immediately after voiding.  
 **Stress Incontinence**: Involuntary leakage of small amounts of urine with effort or physical exertion that increases intra-abdominal pressure such as coughing or sneezing.  
 **Underactive Bladder**: Child needs to strain to raise intra-abdominal pressure to initiate, maintain or complete voiding. Associated with a low voiding frequency, overflow incontinence, a large post-void residual is common.  
-**Urinary Urgency**: Sudden, unexpected, immediate and compelling desire to void. 
-**Urethral-vaginal reflux**: Urinary stream directed towards vagina. Caused by poor toilet posture and compression of the thighs or entrapment of urine by fused labia.
+**Urinary Urgency**: Sudden, unexpected, immediate and compelling desire to void.     
+**Urethral-vaginal reflux**: Urinary stream directed towards vagina. Caused by poor toilet posture and compression of the thighs or entrapment of urine by fused labia.  
 **Voiding Frequency** Number of voids per day.  
 **Voiding postponement**: Child habitually delays voiding as long as possible and consequently wets due to an uninhibited bladder contraction due to overfilled bladder. Often present with low voiding frequency <4 voids per day.
 
